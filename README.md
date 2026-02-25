@@ -1,220 +1,172 @@
-<!--  ╔══════════════════════════════════════════════════════════╗
-      ║   PRASANTH KUMAR SAHU  ·  GitHub Profile README         ║
-      ║   Aspiring Data Analyst  ·  MBA Finance & IT  ·  LPU    ║
-      ╚══════════════════════════════════════════════════════════╝  -->
-
 <div align="center">
 
-<!-- HERO BANNER - SVG based, always loads, no external dependency -->
-<svg width="860" height="180" viewBox="0 0 860 180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0ea5e9"/>
-      <stop offset="50%" style="stop-color:#a855f7"/>
-      <stop offset="100%" style="stop-color:#ec4899"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="180" fill="url(#bg)" rx="12"/>
-  <!-- decorative dots -->
-  <circle cx="30" cy="30" r="3" fill="#0ea5e9" opacity="0.6"/>
-  <circle cx="60" cy="20" r="2" fill="#a855f7" opacity="0.5"/>
-  <circle cx="800" cy="40" r="3" fill="#ec4899" opacity="0.6"/>
-  <circle cx="830" cy="20" r="2" fill="#0ea5e9" opacity="0.5"/>
-  <circle cx="820" cy="160" r="3" fill="#a855f7" opacity="0.4"/>
-  <circle cx="40" cy="155" r="2" fill="#ec4899" opacity="0.5"/>
-  <!-- grid lines -->
-  <line x1="0" y1="60" x2="860" y2="60" stroke="#ffffff" stroke-width="0.3" opacity="0.05"/>
-  <line x1="0" y1="120" x2="860" y2="120" stroke="#ffffff" stroke-width="0.3" opacity="0.05"/>
-  <line x1="215" y1="0" x2="215" y2="180" stroke="#ffffff" stroke-width="0.3" opacity="0.05"/>
-  <line x1="430" y1="0" x2="430" y2="180" stroke="#ffffff" stroke-width="0.3" opacity="0.05"/>
-  <line x1="645" y1="0" x2="645" y2="180" stroke="#ffffff" stroke-width="0.3" opacity="0.05"/>
-  <!-- main name -->
-  <text x="430" y="75" font-family="monospace" font-size="38" font-weight="bold"
-        fill="url(#text-grad)" text-anchor="middle" letter-spacing="3">
-    PRASANTH KUMAR SAHU
-  </text>
-  <!-- subtitle -->
-  <text x="430" y="110" font-family="monospace" font-size="14"
-        fill="#94a3b8" text-anchor="middle" letter-spacing="2">
-    ◈  ASPIRING DATA ANALYST  ·  MBA FINANCE &amp; IT  ·  LPU  ◈
-  </text>
-  <!-- bottom tag line -->
-  <text x="430" y="148" font-family="monospace" font-size="12"
-        fill="#64748b" text-anchor="middle" letter-spacing="1">
-    [ SQL · Python · Power BI · Tableau · Machine Learning ]
-  </text>
-  <!-- corner accents -->
-  <path d="M 0 0 L 30 0 L 0 30" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.7"/>
-  <path d="M 860 0 L 830 0 L 860 30" fill="none" stroke="#ec4899" stroke-width="2" opacity="0.7"/>
-  <path d="M 0 180 L 30 180 L 0 150" fill="none" stroke="#a855f7" stroke-width="2" opacity="0.7"/>
-  <path d="M 860 180 L 830 180 L 860 150" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.7"/>
-</svg>
+<!-- DYNAMIC HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0ea5e9&height=200&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20MBA%20Finance%20%26%20IT%20%7C%20LPU&descAlignY=58&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-<br/>
+<!-- LIVE TYPING TAGLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=750&lines=📊+Transforming+raw+data+into+strategic+business+decisions;🧠+ML+%7C+Power+BI+%7C+Python+%7C+SQL+%7C+Tableau+%7C+Statistics;🏢+Data+Analyst+@+Labmentix+%7C+Data+Science+@+Codec+Tech;🎯+6+Production+Projects+·+21+Certifications+·+2+Live+Internships;📈+From+messy+datasets+to+boardroom-ready+insights)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=720&lines=📊+I+don't+just+read+data+—+I+make+it+talk.;🚀+2+Internships+·+7+Certs+·+6+Projects+·+0+Excuses.;💡+Business+brain+%2B+Data+toolkit+%3D+Real+Insights.;🔍+Turning+messy+spreadsheets+into+clean+decisions.;📈+Power+BI+%7C+Python+%7C+SQL+%7C+Tableau+%7C+ML.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk777sahu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777)
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
+[![Gmail](https://img.shields.io/badge/Email-pk777sahu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk777sahu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PrasanthKumarS777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777)
 [![Profile Views](https://komarev.com/ghpvc/?username=PrasanthKumarS777&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/PrasanthKumarS777)
 
 </div>
 
 ---
 
-## 👨‍💻 &nbsp; Hey there, I'm Prasanth!
+## 🧬 Who I Am
 
-<img align="right" alt="Coder GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+```python
+class DataAnalyst:
 
-```yaml
-╔══════════════════════════════════════════════╗
-║           PRASANTH KUMAR SAHU                ║
-╠══════════════════════════════════════════════╣
-║  Degree      : MBA — Finance & IT            ║
-║  University  : Lovely Professional Univ.     ║
-║  Status      : Final Year Student 🎓         ║
-╠══════════════════════════════════════════════╣
-║  🏢 Labmentix       → Data Analyst Intern    ║
-║  🔬 Codec Tech      → Data Science Intern    ║
-╠══════════════════════════════════════════════╣
-║  Superpower  : Business brain meets data     ║
-║  Goal        : Full-time Data Analyst role   ║
-║  Fun Fact    : I see stories in spreadsheets ║
-╚══════════════════════════════════════════════╝
+    name       = "Prasanth Kumar Sahu"
+    degree     = "MBA — Finance & IT  |  Lovely Professional University"
+    status     = "Final Year | Open to Full-Time Data Analyst Roles 🚀"
+
+    internships = {
+        "Labmentix"        : "Data Analyst Intern  [ACTIVE ✅]",
+        "Codec Technologies": "Data Science Intern  [ACTIVE ✅]"
+    }
+
+    core_stack  = ["Python", "SQL", "Power BI", "Tableau", "Scikit-learn", "Excel"]
+    expertise   = ["EDA", "ML Modeling", "BI Dashboards", "Statistical Analysis",
+                   "Data Storytelling", "Predictive Analytics", "SHAP/XAI"]
+
+    strengths   = "Business acumen meets rigorous data science."
+    motto       = "I don't just read data — I make it drive decisions."
 ```
-
-<br clear="right"/>
 
 ---
 
-## ⚡ &nbsp; My Analyst Arsenal
+## 🗂️ At a Glance
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    SKILLS DASHBOARD                          │
-├─────────────────────┬───────────────────────────────────────┤
-│  📊 BI & Viz        │  Power BI ████████████ 90%            │
-│                     │  Tableau  ██████████░░ 80%            │
-│                     │  Excel    ████████████ 95%            │
-├─────────────────────┼───────────────────────────────────────┤
-│  🐍 Python Stack    │  Pandas   ████████████ 88%            │
-│                     │  NumPy    ██████████░░ 82%            │
-│                     │  Seaborn  █████████░░░ 78%            │
-├─────────────────────┼───────────────────────────────────────┤
-│  🗄️  SQL & Data     │  MySQL    ████████████ 85%            │
-│                     │  EDA      █████████████ 90%           │
-│                     │  Cleaning ████████████ 92%            │
-├─────────────────────┼───────────────────────────────────────┤
-│  🤖 ML & Deploy     │  Sklearn  ████████░░░░ 72%            │
-│                     │  FastAPI  ███████░░░░░ 65%            │
-│                     │  Docker   ██████░░░░░░ 60%            │
-└─────────────────────┴───────────────────────────────────────┘
-```
+| 🏢 **2 Active Internships** | 📜 **21 Certificates** | 🚀 **6 Projects Built** | ⏱️ **80+ Learning Hours** |
+|:---:|:---:|:---:|:---:|
+| Labmentix + Codec Tech | Udemy · Forage · AWS · Walmart | End-to-End ML & BI | Verified & Dated |
 
 </div>
 
+---
+
+## ⚙️ Technical Arsenal
+
 <div align="center">
 
-### 📊 BI & Visualization
+### 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🐍 Python Ecosystem
+### 🐍 Python Data Science Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
+![Dask](https://img.shields.io/badge/Dask-FDA061?style=for-the-badge&logo=dask&logoColor=black)
 
 ### 🗄️ Database & Query
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### ⚙️ ML & Deployment
-![XGBoost](https://img.shields.io/badge/XGBoost-EC2E2E?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🌐 Web Development & Engineering
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD_3D-E34234?style=for-the-badge&logo=autodesk&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-003087?style=for-the-badge&logo=security&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-black?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 &nbsp; Currently Grinding At
+## 📊 Skill Proficiency
 
-<div align="center">
+```
+CORE DATA SKILLS
+─────────────────────────────────────────────────────────────────
+  Excel / Data Cleaning   ██████████████████████  95%
+  Power BI / DAX          ████████████████████░░  90%
+  EDA / Statistics        ████████████████████░░  90%
+  Pandas / NumPy          ███████████████████░░░  88%
+  SQL / MySQL             ██████████████████░░░░  85%
+  Tableau                 ████████████████░░░░░░  80%
+  Machine Learning        ████████████████░░░░░░  78%
+  FastAPI / Docker        █████████████░░░░░░░░░  65%
+  Microsoft Azure         ████████████░░░░░░░░░░  60%
+─────────────────────────────────────────────────────────────────
+```
 
-<table>
+---
+
+## 💼 Work Experience
+
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<br/>
+### 🏢 Labmentix · *Data Analyst Intern*
+![Status](https://img.shields.io/badge/🟢_ACTIVE-22c55e?style=flat-square)
 
-### 🏢 Labmentix
-**`Data Analyst Intern`**
+**Role Focus:**
+- Building production Power BI dashboards for business stakeholders
+- Conducting EDA on operational datasets to surface actionable KPIs
+- Automating reporting pipelines using Python + SQL
+- Translating business questions into data-driven recommendations
 
-![Status](https://img.shields.io/badge/Status-🟢_ACTIVE-22c55e?style=flat-square)
-
-> Analyzing business data, building BI dashboards, extracting insights that drive real decisions.
-
-`Power BI` &nbsp; `SQL` &nbsp; `Python` &nbsp; `EDA`
-
-<br/>
+`Power BI` · `DAX` · `Python` · `SQL` · `EDA`
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<br/>
+### 🔬 Codec Technologies · *Data Science Intern*
+![Status](https://img.shields.io/badge/🟢_ACTIVE-22c55e?style=flat-square)
 
-### 🔬 Codec Technologies
-**`Data Science Intern`**
+**Role Focus:**
+- Designing end-to-end ML pipelines from raw data to deployment
+- Feature engineering, model selection, and hyperparameter tuning
+- Building predictive models for real business use cases
+- Model evaluation using SHAP for interpretability
 
-![Status](https://img.shields.io/badge/Status-🟢_ACTIVE-22c55e?style=flat-square)
-
-> Building ML pipelines, preprocessing data, and deploying predictive models for real business problems.
-
-`Python` &nbsp; `Scikit-learn` &nbsp; `ML` &nbsp; `Stats`
-
-<br/>
+`Python` · `Scikit-learn` · `ML` · `Statstics` · `Model Deployment`
 
 </td>
 </tr>
 </table>
 
-> 💡 *Two internships at the same time — because once you love data, once is never enough.*
-
-</div>
-
 ---
 
-## 🚀 &nbsp; Projects That Prove It
+## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 Spotify Artist Dashboard
-> Power BI dashboard for artist performance — streams, royalties & audience demographics.
-> Cut analysis time by **70%** with automated DAX measures.
+### 🎵 Spotify Artist Intelligence Dashboard
+> **Stack:** Power BI · DAX · Spotify API
+
+End-to-end BI solution tracking artist streams, royalties, and audience demographics. Automated DAX measures **reduced analysis time by 70%**.
 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
-![Spotify API](https://img.shields.io/badge/-Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
+![API](https://img.shields.io/badge/-Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 **[→ View Project](https://github.com/PrasanthKumarS777/Spotify-Artist-Dashboard)**
 
@@ -222,7 +174,9 @@
 <td width="50%" valign="top">
 
 ### 🌍 Tourism Analytics Platform
-> End-to-end ML platform with rating prediction **(R²=0.85)**, visit mode classifier **(70%+ accuracy)** and hybrid recommendation engine on **50,000+** records.
+> **Stack:** Python · Scikit-learn · Streamlit
+
+ML platform on **50,000+ records** — rating prediction **(R²=0.85)**, visit mode classification **(70%+ accuracy)**, and hybrid recommendation engine.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square)
@@ -235,8 +189,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ Zomato Restaurant Analysis
-> NLP sentiment analysis + unsupervised clustering on **10,000+** restaurant records to uncover hidden cuisine & location trends.
+### 🍽️ Zomato NLP & Clustering Analysis
+> **Stack:** Python · NLP · Unsupervised ML
+
+Sentiment analysis + KMeans clustering on **10,000+ restaurant records** to discover hidden cuisine and location-based market segments.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square)
@@ -247,12 +203,15 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏦 Loan Default Prediction XAI
-> XGBoost credit risk model with **SHAP explainability**, deployed as a production-ready API using FastAPI + Docker.
+### 🏦 Credit Risk Model with XAI
+> **Stack:** XGBoost · SHAP · FastAPI · Docker
+
+Production-ready credit risk classifier with **SHAP explainability** deployed as a containerized REST API. Full MLOps lifecycle.
 
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EC2E2E?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SHAP](https://img.shields.io/badge/-SHAP_XAI-7C3AED?style=flat-square)
 
 **[→ View Project](https://github.com/PrasanthKumarS777/loan-default-prediction-xai)**
 
@@ -261,8 +220,10 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🌦️ Realtime Weather Dashboard
-> Live weather analytics dashboard consuming real-time API data with dynamic, interactive charts and location-based insights.
+### 🌦️ Real-Time Weather Analytics Dashboard
+> **Stack:** JavaScript · REST API · Chart.js
+
+Live weather analytics consuming real-time API feeds with dynamic interactive visualizations and location-based intelligence.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/-REST_API-0EA5E9?style=flat-square)
@@ -273,7 +234,9 @@
 <td width="50%" valign="top">
 
 ### 💰 Financial Intelligence Dashboard
-> Full-stack personal finance manager with real-time Firebase backend, budget tracking, and smart spending analytics.
+> **Stack:** JavaScript · Firebase · Analytics
+
+Full-stack personal finance manager with real-time Firebase backend, smart budget tracking, and spending behavior analytics.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -284,61 +247,71 @@
 </tr>
 </table>
 
+---
+
+## 📜 Certifications & Learning
+
+> **21 Certificates · 80+ Hours · All Verified · Dec 2025 — Jan 2026**
+
+### 📊 Data Science & Analytics Core
+| # | Course | Platform | Hours | Date | Verify |
+|---|--------|----------|-------|------|--------|
+| 01 | 🐍 Python for Data Analysis | MTF Institute / Udemy | 4.5h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-3776AB?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-3226dfa9-d872-45c4-9a75-36d8c6ce698c) |
+| 02 | 🔢 Data Manipulation: NumPy & Pandas | Meta Brains / Udemy | 4.0h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-150458?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-116f50ec-bc87-4c6a-98af-6f4998908898) |
+| 03 | 📊 Power BI & Tableau 2-in-1 Bundle | Start-Tech / Udemy | 17.5h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-F2C811?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-046ab4fa-aa50-4b4f-8dad-a3a896ded970) |
+| 04 | 🗄️ MySQL for Beginners | Meta Brains / Udemy | 2.5h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-4479A1?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-46236305-51da-4855-b97f-acdf0d8ebba0) |
+| 05 | 📐 Data Science: Probability & Stats | MTF Institute / Udemy | 7.5h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-EC4899?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-50bac0a4-ea41-4bfd-ad58-e4b9709696ba) |
+| 06 | 🚀 Deploy ML with FastAPI & Docker | Meta Brains / Udemy | 4.0h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-009688?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-0dff35f0-d48a-467e-b9b1-84e72ba2d24f) |
+| 07 | 💼 Master Business Analysis | Arun Singhal / Udemy | 7.0h | Jan 2026 | [![Verify](https://img.shields.io/badge/Verify-F97316?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-10718909-e4d1-480a-a656-66fb911bbbf4) |
+| 08 | ⚡ Master Dask: Python Parallel Computing | Meta Brains / Udemy | 3.0h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-FDA061?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-33fe5381-0bd0-46b1-93ff-ea66309f4407) |
+
+### ☁️ Cloud & Infrastructure
+| # | Course | Platform | Hours | Date | Verify |
+|---|--------|----------|-------|------|--------|
+| 09 | ☁️ Microsoft Azure | Learntoupgrade / Udemy | 3.0h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-b64febe2-f37a-4bfd-a580-f7a74e0ca5fe) |
+| 10 | 🏗️ AWS Solutions Architecture Job Sim | AWS + Forage | — | Dec 2025 | [![Verify](https://img.shields.io/badge/Forage-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.theforage.com) |
+
+### 🔐 Security & Cybersecurity
+| # | Course | Platform | Hours | Date | Verify |
+|---|--------|----------|-------|------|--------|
+| 11 | 🛡️ NIST Cybersecurity Framework (CSF) 2.0 | Dr. Amar Massoud / Udemy | 2.0h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-003087?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-d3ff6da3-04a7-4cb2-83f7-3a2c72607982) |
+| 12 | 🔓 Ethically Hack the Planet Part 3 | Cyber Twinkle / Udemy | 0.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-black?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-f6aea034-b593-41a3-81ba-9b2cd61ffae1) |
+
+### 🌐 Web Development & Engineering
+| # | Course | Platform | Hours | Date | Verify |
+|---|--------|----------|-------|------|--------|
+| 13 | 🌐 Mastering Web Design: HTML, CSS & Gen AI | Skool of AI / Udemy | 4.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-E34F26?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-cfaaabff-0ace-4056-939f-be21426c8562) |
+| 14 | ⚛️ React.JS for Ecommerce | Meta Brains / Udemy | 3.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-61DAFB?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-f0334987-9e14-41c2-aca6-357dd89dc35a) |
+| 15 | 🅰️ Angular for Beginners to Advanced | Meta Brains / Udemy | 3.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-DD0031?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-7acd2f3b-be84-4288-9125-ac87c9abae81) |
+| 16 | ▲ Next.js: Scalable React Apps | Anton Voroniuk / Udemy | 5.0h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-000000?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-69af5fda-c053-4446-9caf-a161c437461c) |
+| 17 | 🔒 Secure Python & Django | Meta Brains / Udemy | 5.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-092E20?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-9363e402-7822-42e2-bc62-84db129f1905) |
+| 18 | 📐 AutoCAD 3D: Basics to Advanced Modelling | Meta Brains / Udemy | 3.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-E34234?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-0e0ad0dc-5dc0-44da-bc8f-9690c785b7f3) |
+| 19 | 🐧 Python 4000: Linux Commands & DevOps | Mr. Randall Nagy / Udemy | 4.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-FCC624?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-c0be4a9c-095f-4f02-8846-e71453255937) |
+| 20 | 🚀 No-Code SaaS Development: Idea to App | Meta Brains / Udemy | 7.5h | Dec 2025 | [![Verify](https://img.shields.io/badge/Verify-6366F1?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-91e73cfb-8117-4b65-a40e-7eff1401e96d) |
+
+### 🏆 Industry Job Simulations
+| Program | Company | Skills Covered | Date |
+|---------|---------|----------------|------|
+| 🟦 Advanced Software Engineering Job Sim | **Walmart Global Tech** (Forage) | Data Structures · Software Architecture · Relational DB Design · Data Munging | Dec 12, 2025 |
+| 🟧 Solutions Architecture Job Sim | **Amazon Web Services** (Forage) | Designing scalable, cloud-native hosting architecture | Dec 18, 2025 |
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9&ring_color=ec4899" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=a855f7&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=a855f7&dates=64748b" width="700"/>
+
 </div>
 
 ---
 
-## 📜 &nbsp; Certifications Wall
-
-<div align="center">
-
-> ### 🏅 7 Certificates &nbsp;·&nbsp; 46 Learning Hours &nbsp;·&nbsp; All Verified &nbsp;·&nbsp; January 2026
-
-```
-╔════╦══════════════════════════════════════════╦═══════╦══════════════════╗
-║ #  ║  COURSE                                  ║ HOURS ║  PLATFORM        ║
-╠════╬══════════════════════════════════════════╬═══════╬══════════════════╣
-║ 01 ║  🐍 Python for Data Analysis             ║  4.5h ║  MTF Institute   ║
-║ 02 ║  🔢 Data Manipulation: NumPy & Pandas    ║  4.0h ║  Meta Brains     ║
-║ 03 ║  📊 Power BI & Tableau 2-in-1 Bundle     ║ 17.5h ║  Start-Tech      ║
-║ 04 ║  🗄️  MySQL for Beginners                 ║  2.5h ║  Meta Brains     ║
-║ 05 ║  📐 Data Science: Probability & Stats    ║  7.5h ║  MTF Institute   ║
-║ 06 ║  🚀 Deploy ML with FastAPI & Docker      ║  4.0h ║  Meta Brains     ║
-║ 07 ║  💼 Master Business Analysis             ║  7.0h ║  Arun Singhal    ║
-╠════╬══════════════════════════════════════════╬═══════╬══════════════════╣
-║    ║                          TOTAL           ║ 47.0h ║  Udemy Platform  ║
-╚════╩══════════════════════════════════════════╩═══════╩══════════════════╝
-```
-
-[![Cert 1](https://img.shields.io/badge/Python_for_DA-Verify-3776AB?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-3226dfa9-d872-45c4-9a75-36d8c6ce698c)
-[![Cert 2](https://img.shields.io/badge/NumPy_%26_Pandas-Verify-150458?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-116f50ec-bc87-4c6a-98af-6f4998908898)
-[![Cert 3](https://img.shields.io/badge/Power_BI_%26_Tableau-Verify-F2C811?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-046ab4fa-aa50-4b4f-8dad-a3a896ded970)
-[![Cert 4](https://img.shields.io/badge/MySQL-Verify-4479A1?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-46236305-51da-4855-b97f-acdf0d8ebba0)
-[![Cert 5](https://img.shields.io/badge/Stats_%26_Probability-Verify-EC4899?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-50bac0a4-ea41-4bfd-ad58-e4b9709696ba)
-[![Cert 6](https://img.shields.io/badge/FastAPI_%26_Docker-Verify-009688?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-0dff35f0-d48a-467e-b9b1-84e72ba2d24f)
-[![Cert 7](https://img.shields.io/badge/Business_Analysis-Verify-F97316?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-10718909-e4d1-480a-a656-66fb911bbbf4)
-
-</div>
-
----
-
-## 📊 &nbsp; GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=a855f7&text_color=c9d1d9&ring_color=ec4899" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=6" height="175"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=a855f7&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=a855f7&dates=64748b"/>
-</div>
-
----
-
-## 🏆 &nbsp; GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -348,7 +321,7 @@
 
 ---
 
-## 📈 &nbsp; Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -358,84 +331,36 @@
 
 ---
 
-## 🗺️ &nbsp; My Journey as a Data Analyst
-
-<div align="center">
+## 🎯 Currently Focused On
 
 ```
-                        MY DATA ANALYST ROADMAP
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  2024                                                  2026+
-   │                                                      │
-   ▼                                                      ▼
-  [🎓 MBA]──►[📊 Discovered DA]──►[🐍 Python + SQL]──►[🎯 Full-time Role]
-                      │
-         ┌────────────┼────────────┐
-         ▼            ▼            ▼
-    [Power BI]    [Tableau]    [Statistics]
-    [DAX Magic]  [Dashboards] [Probability]
-         │            │            │
-         └────────────┼────────────┘
-                      ▼
-           ┌──────────────────────┐
-           │  2 LIVE INTERNSHIPS  │
-           │  🏢 Labmentix        │
-           │  🔬 Codec Tech       │
-           └──────────┬───────────┘
-                      │
-                      ▼
-           ┌──────────────────────┐
-           │  7 CERTS · 46 HRS   │
-           │  6 PROJECTS BUILT   │
-           └──────────┬───────────┘
-                      │
-                      ▼
-               ✅ YOU ARE HERE
-             Open to Opportunities 🚀
+┌──────────────────────────────────────────────────────────┐
+│                  Q1 2026 ROADMAP                         │
+├──────────────────────────────────────────────────────────┤
+│  ✅  Two simultaneous internships (Labmentix + Codec)    │
+│  ✅  End-to-end ML deployment with FastAPI + Docker      │
+│  🔄  Advanced Power BI — DAX optimization & RLS          │
+│  🔄  Cloud analytics on Microsoft Azure                  │
+│  🎯  Full-time Data Analyst / BI Analyst role            │
+└──────────────────────────────────────────────────────────┘
 ```
-
-</div>
 
 ---
 
-## 🤝 &nbsp; Let's Build Something With Data
+## 🤝 Let's Connect
 
 <div align="center">
 
-### I'm actively seeking **Data Analyst / BI Analyst** roles 🎯
-*Bring me your messiest dataset — I'll make it beautiful.*
+### Open to **Data Analyst · BI Analyst · Junior Data Scientist** roles 🎯
+
+*Bring your most complex dataset. I'll find the story in it.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk777sahu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pk777sahu@gmail.com)
-[![Projects](https://img.shields.io/badge/See_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories)
-
-<br/>
-
----
-
-<!-- SVG Footer - always loads -->
-<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footer-bg" x1="100%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="80" fill="url(#footer-bg)" rx="12"/>
-  <path d="M 0 80 L 30 80 L 0 50" fill="none" stroke="#ec4899" stroke-width="2" opacity="0.7"/>
-  <path d="M 860 80 L 830 80 L 860 50" fill="none" stroke="#0ea5e9" stroke-width="2" opacity="0.7"/>
-  <text x="430" y="38" font-family="monospace" font-size="13" fill="#94a3b8"
-        text-anchor="middle" letter-spacing="1">
-    ⭐ Star my repos if they helped you · Let's connect and grow together
-  </text>
-  <text x="430" y="62" font-family="monospace" font-size="11" fill="#475569"
-        text-anchor="middle">
-    © 2026 Prasanth Kumar Sahu · Built with 💙 and lots of data
-  </text>
-</svg>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:a855f7,100:ec4899&height=100&section=footer&text=Data+drives+decisions.+I+drive+data.&fontSize=16&fontColor=ffffff&fontAlignY=65)
 
 </div>
