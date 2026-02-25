@@ -43,6 +43,16 @@
 
 ---
 
+## 🎬 Data Science Pipeline — Animated
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline" width="100%"/>
+</div>
+
+> *Raw Data → Cleaning → EDA → ML Model → Deployed Insight — this is the journey every dataset takes.*
+
+---
+
 ## 🧬 Who I Am
 
 ```python
