@@ -1,20 +1,86 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   WAVE HEADER                                                       -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   NATIVE SVG HEADER — No external image deps, always renders      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050818,30:0a1628,60:0e2040,100:0ea5e9&height=220&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20MBA%20Finance%20%26%20IT%20%E2%80%A2%20LPU&descAlignY=60&descSize=15&descColor=64b5f6&animation=fadeIn&fontAlign=50" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050818"/>
+      <stop offset="40%" style="stop-color:#0a1628"/>
+      <stop offset="75%" style="stop-color:#0e2040"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="hacc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9"/>
+      <stop offset="50%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#ec4899"/>
+    </linearGradient>
+    <linearGradient id="hwv" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="hglow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="220" fill="url(#hbg)"/>
+  <!-- Grid -->
+  <g opacity="0.05" stroke="#0ea5e9" stroke-width="0.5">
+    <line x1="0" y1="44" x2="900" y2="44"/><line x1="0" y1="88" x2="900" y2="88"/>
+    <line x1="0" y1="132" x2="900" y2="132"/><line x1="0" y1="176" x2="900" y2="176"/>
+    <line x1="180" y1="0" x2="180" y2="220"/><line x1="360" y1="0" x2="360" y2="220"/>
+    <line x1="540" y1="0" x2="540" y2="220"/><line x1="720" y1="0" x2="720" y2="220"/>
+  </g>
+  <!-- Orbs -->
+  <circle cx="790" cy="50" r="60" fill="#7c3aed" opacity="0.07"/>
+  <circle cx="830" cy="90" r="38" fill="#0ea5e9" opacity="0.09"/>
+  <circle cx="95"  cy="175" r="45" fill="#ec4899" opacity="0.06"/>
+  <circle cx="55"  cy="148" r="22" fill="#0ea5e9" opacity="0.09"/>
+  <!-- Wave -->
+  <path d="M0,182 Q225,142 450,167 Q675,192 900,152 L900,220 L0,220 Z" fill="url(#hwv)"/>
+  <path d="M0,192 Q200,162 450,180 Q700,198 900,167 L900,220 L0,220 Z" fill="#0ea5e9" opacity="0.06"/>
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#hacc)"/>
+  <!-- Dot accents -->
+  <g fill="#0ea5e9" opacity="0.45">
+    <circle cx="42" cy="36" r="2.2"/><circle cx="62" cy="56" r="1.6"/>
+    <circle cx="32" cy="66" r="1.1"/><circle cx="852" cy="188" r="2.2"/>
+    <circle cx="872" cy="172" r="1.6"/><circle cx="838" cy="178" r="1.1"/>
+  </g>
+  <!-- Corner brackets -->
+  <path d="M16,16 L16,6 L26,6"   stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M884,16 L884,6 L874,6" stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M16,204 L16,214 L26,214"   stroke="#ec4899" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M884,204 L884,214 L874,214" stroke="#ec4899" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <!-- Name -->
+  <text x="450" y="95" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="43" font-weight="800" fill="#ffffff" text-anchor="middle"
+        letter-spacing="3.5" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>
+  <!-- Gradient rule -->
+  <rect x="175" y="104" width="550" height="2" fill="url(#hacc)" rx="1"/>
+  <!-- Subtitle -->
+  <text x="450" y="136" font-family="'Segoe UI',Arial,sans-serif"
+        font-size="14.5" fill="#64b5f6" text-anchor="middle"
+        letter-spacing="4.5" font-weight="500">DATA ANALYST  ·  MBA FINANCE &amp; IT  ·  LPU</text>
+  <!-- Tagline -->
+  <text x="450" y="172" font-family="'Courier New',monospace"
+        font-size="12" fill="#0ea5e9" text-anchor="middle" opacity="0.88" letter-spacing="0.8">
+    ⟫  Transforming raw data into strategic decisions  ⟪
+  </text>
+</svg>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   LIVE TYPING TAGLINES                                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   LIVE TYPING TAGLINES                                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=%F0%9F%93%8A+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);%F0%9F%A7%A0+Business+Brain+%C3%97+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);%F0%9F%8E%AF+2+Internships+%C2%B7+21+Certs+%C2%B7+6+Projects+%C2%B7+0+Excuses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=%F0%9F%93%8A+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);%F0%9F%A7%A0+Business+Brain+%C3%97+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);%F0%9F%8E%AF+2+Internships+%C2%B7+21+Certs+%C2%B7+7+Projects+%C2%B7+0+Excuses)](https://git.io/typing-svg)
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   STATUS + CONTACT BADGES                                          -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 [![Status](https://img.shields.io/badge/🟢_Status-Open_to_Full_Time_Roles-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/prasanthsahu7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanth_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
@@ -28,13 +94,9 @@
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   AT-A-GLANCE METRICS                                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
-![6 Projects](https://img.shields.io/badge/🚀_Projects-6_Built-ec4899?style=flat-square&labelColor=0d1117)
+![7 Projects](https://img.shields.io/badge/🚀_Projects-7_Built-ec4899?style=flat-square&labelColor=0d1117)
 ![2 Internships](https://img.shields.io/badge/🏢_Internships-2_Active-10b981?style=flat-square&labelColor=0d1117)
 ![50k Records](https://img.shields.io/badge/📊_Records_Analyzed-50K%2B-f59e0b?style=flat-square&labelColor=0d1117)
 ![R2](https://img.shields.io/badge/🎯_Best_R²_Score-0.85-0ea5e9?style=flat-square&labelColor=0d1117)
@@ -51,6 +113,7 @@
 
 > *Raw Data → Cleaning → EDA → ML Model → Deployed Insight — this is the journey every dataset takes.*
 
+---
 
 ## 🧬 Who I Am
 
@@ -305,6 +368,27 @@ Full-stack personal finance manager with real-time Firebase backend, smart budge
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 LaxmiOS — UPSC Flashcard Platform
+> **Stack:** React · Firebase Firestore · Node.js
+
+Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian Polity* (82 chapters). Features 6-tab cards, Firestore backend with batch import scripts, and an admin panel with search & filter.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+**[→ View Project](https://github.com/PrasanthKumarS777/laxmios)**
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Reserve slot for next project -->
+
+</td>
+</tr>
 </table>
 
 ---
@@ -377,16 +461,6 @@ Full-stack personal finance manager with real-time Firebase backend, smart budge
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrasanthKumarS777&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -406,6 +480,7 @@ Full-stack personal finance manager with real-time Firebase backend, smart budge
 │  ✅  Running 2 simultaneous internships  (Labmentix + Codec Tech)   │
 │  ✅  Deployed ML model to production     (FastAPI + Docker)         │
 │  ✅  21 certificates across 5 domains   (80+ verified hours)        │
+│  ✅  7 Projects built & shipped                                     │
 │  🔄  Advanced Power BI — DAX optimization & Row-Level Security      │
 │  🔄  Cloud analytics pipelines on Microsoft Azure                   │
 │  🎯  Land a full-time Data Analyst / BI Analyst role                │
@@ -430,9 +505,37 @@ Full-stack personal finance manager with real-time Firebase backend, smart budge
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:ec4899&height=120&section=footer&text=Data+drives+decisions.+I+drive+data.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--   NATIVE SVG FOOTER — always renders, no broken images            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
+  <defs>
+    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050818"/>
+      <stop offset="100%" style="stop-color:#0e2040"/>
+    </linearGradient>
+    <linearGradient id="facc" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9"/>
+      <stop offset="50%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#fbg)"/>
+  <path d="M0,28 Q225,4 450,18 Q675,32 900,8 L900,0 L0,0 Z" fill="url(#facc)" opacity="0.14"/>
+  <path d="M0,34 Q200,8 450,24 Q700,38 900,14 L900,0 L0,0 Z" fill="#0ea5e9" opacity="0.07"/>
+  <rect x="0" y="97" width="900" height="3" fill="url(#facc)"/>
+  <g opacity="0.06" stroke="#0ea5e9" stroke-width="0.5">
+    <line x1="0" y1="50" x2="900" y2="50"/>
+    <line x1="300" y1="0" x2="300" y2="100"/><line x1="600" y1="0" x2="600" y2="100"/>
+  </g>
+  <text x="450" y="56" font-family="'Segoe UI',Arial,sans-serif"
+        font-size="16" fill="#ffffff" text-anchor="middle"
+        font-weight="700" letter-spacing="2">Data drives decisions. I drive data.</text>
+  <text x="450" y="76" font-family="'Courier New',monospace"
+        font-size="10.5" fill="#0ea5e9" text-anchor="middle" opacity="0.65" letter-spacing="1">
+    © Prasanth Kumar Sahu  ·  PrasanthKumarS777  ·  2026
+  </text>
+</svg>
 
 </div>
-
-
-
