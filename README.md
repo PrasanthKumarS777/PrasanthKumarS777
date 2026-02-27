@@ -58,7 +58,7 @@
   <!-- Name -->
   <text x="450" y="95" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="43" font-weight="800" fill="#ffffff" text-anchor="middle"
-        letter-spacing="3.5" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>
+        letter-spacing="3.5" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>  .  
   <!-- Gradient rule -->
   <rect x="175" y="104" width="550" height="2" fill="url(#hacc)" rx="1"/>
   <!-- Subtitle -->
