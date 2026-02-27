@@ -85,13 +85,13 @@
   <!-- Name -->
   <text x="450" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle"
-        letter-spacing="4" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>
+        letter-spacing="4" filter="url(#hglow)"></text>
   <!-- Rule -->
   <rect x="160" y="112" width="580" height="2.5" fill="url(#hacc)" rx="1.5"/>
   <!-- Subtitle -->
   <text x="450" y="144" font-family="'Segoe UI',Arial,sans-serif"
         font-size="13.5" fill="#64b5f6" text-anchor="middle"
-        letter-spacing="5" font-weight="600">DATA ANALYST  ·  MBA FINANCE &amp; IT  ·  LPU</text>
+        letter-spacing="5" font-weight="600">DATA ANALYST  ||  MBA FINANCE &amp; IT  ||  LPU</text>
   <!-- Tagline -->
   <text x="450" y="178" font-family="'Courier New',monospace"
         font-size="11.5" fill="#0ea5e9" text-anchor="middle" opacity="0.9" letter-spacing="1">
