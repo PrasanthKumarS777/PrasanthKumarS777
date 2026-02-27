@@ -91,7 +91,7 @@
   <!-- Subtitle -->
   <text x="450" y="144" font-family="'Segoe UI',Arial,sans-serif"
         font-size="13.5" fill="#64b5f6" text-anchor="middle"
-        letter-spacing="5" font-weight="600">DATA ANALYST  ||  MBA FINANCE &amp; IT  ||  LPU</text>
+        letter-spacing="5" font-weight="600">  MBA FINANCE &amp; IT  ||  LPU</text>
   <!-- Tagline -->
   <text x="450" y="178" font-family="'Courier New',monospace"
         font-size="11.5" fill="#0ea5e9" text-anchor="middle" opacity="0.9" letter-spacing="1">
@@ -99,9 +99,9 @@
   </text>
   <!-- Labels -->
   <text x="878" y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#0ea5e9" text-anchor="end" opacity="0.4">v2026.02</text>
+        fill="#0ea5e9" text-anchor="end" opacity="0.4"></text>
   <text x="22"  y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#ec4899" opacity="0.4">[ PROFILE_ACTIVE ]</text>
+        fill="#ec4899" opacity="0.4"></text>
 </svg>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
