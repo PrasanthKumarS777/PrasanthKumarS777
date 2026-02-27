@@ -51,9 +51,9 @@
     <circle cx="872" cy="172" r="1.6"/><circle cx="838" cy="178" r="1.1"/>
   </g>
   <!-- Corner brackets -->
-  <path d="M16,16 L16,6 L26,6"   stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
-  <path d="M884,16 L884,6 L874,6" stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
-  <path d="M16,204 L16,214 L26,214"   stroke="#ec4899" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M16,16 L16,6 L26,6"    stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M884,16 L884,6 L874,6"  stroke="#0ea5e9" stroke-width="1.8" fill="none" opacity="0.65"/>
+  <path d="M16,204 L16,214 L26,214"    stroke="#ec4899" stroke-width="1.8" fill="none" opacity="0.65"/>
   <path d="M884,204 L884,214 L874,214" stroke="#ec4899" stroke-width="1.8" fill="none" opacity="0.65"/>
   <!-- Name -->
   <text x="450" y="95" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
@@ -76,7 +76,7 @@
 <!--   LIVE TYPING TAGLINES                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=%F0%9F%93%8A+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);%F0%9F%A7%A0+Business+Brain+%C3%97+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);%F0%9F%8E%AF+2+Internships+%C2%B7+21+Certs+%C2%B7+7+Projects+%C2%B7+0+Excuses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=%F0%9F%93%8A+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);%F0%9F%A7%A0+Business+Brain+%C3%97+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);%F0%9F%94%8D+Fraud+detected+in+%3C250ms+%7C+ROC-AUC+0.8983;%F0%9F%8E%AF+2+Internships+%C2%B7+21+Certs+%C2%B7+8+Projects+%C2%B7+0+Excuses)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--   STATUS + CONTACT BADGES                                          -->
@@ -96,10 +96,10 @@
 
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
-![7 Projects](https://img.shields.io/badge/🚀_Projects-7_Built-ec4899?style=flat-square&labelColor=0d1117)
+![8 Projects](https://img.shields.io/badge/🚀_Projects-8_Built-ec4899?style=flat-square&labelColor=0d1117)
 ![2 Internships](https://img.shields.io/badge/🏢_Internships-2_Active-10b981?style=flat-square&labelColor=0d1117)
-![50k Records](https://img.shields.io/badge/📊_Records_Analyzed-50K%2B-f59e0b?style=flat-square&labelColor=0d1117)
-![R2](https://img.shields.io/badge/🎯_Best_R²_Score-0.85-0ea5e9?style=flat-square&labelColor=0d1117)
+![590k Records](https://img.shields.io/badge/📊_Records_Analyzed-590K%2B-f59e0b?style=flat-square&labelColor=0d1117)
+![ROC-AUC](https://img.shields.io/badge/🎯_Best_ROC--AUC-0.8983-0ea5e9?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -131,12 +131,17 @@ class DataAnalyst:
 
     core_stack  = ["Python", "SQL", "Power BI", "Tableau", "Scikit-learn", "Excel"]
     expertise   = ["EDA", "ML Modeling", "BI Dashboards", "Statistical Analysis",
-                   "Data Storytelling", "Predictive Analytics", "SHAP / XAI"]
+                   "Data Storytelling", "Predictive Analytics", "SHAP / XAI",
+                   "Streaming Pipelines", "MLOps", "Drift Monitoring"]
+
+    recent_win  = "Built a production fraud detection pipeline — 89.83% ROC-AUC, " \
+                  "sub-250ms latency, 590K+ transactions, full MLOps observability."
 
     fun_facts   = [
         "I see stories in spreadsheets others call 'messy'",
         "I deployed ML to production before finishing my MBA",
         "I run 2 internships simultaneously — because once is never enough",
+        "I built a real-time Kafka streaming pipeline just for fun",
     ]
 
     motto       = "I don't just read data — I make it drive decisions."
@@ -166,6 +171,8 @@ class DataAnalyst:
 
 > *"If your dashboard needs a legend to explain itself, your dashboard is the problem — not the data."*
 
+> *"Real-time is not a feature. It's a responsibility."*
+
 > 🔵 *"I don't just read data — I make it drive decisions. Because numbers without narrative are just noise."*
 > — **Prasanth Kumar Sahu**
 
@@ -182,6 +189,7 @@ class DataAnalyst:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🐍 Python Data Science Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -198,11 +206,15 @@ class DataAnalyst:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### ☁️ Cloud, DevOps & Deployment
+### ☁️ Cloud, MLOps & Deployment
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -232,6 +244,7 @@ class DataAnalyst:
 ║  SQL / MySQL             ████████████████████░░░░  85%  ✅ Strong   ║
 ║  Tableau                 ████████████████████░░░░  80%  ✅ Strong   ║
 ║  Machine Learning        ███████████████████░░░░░  78%  ✅ Strong   ║
+║  Kafka / MLOps           ██████████████░░░░░░░░░░  68%  🔄 Growing  ║
 ║  FastAPI / Docker        █████████████░░░░░░░░░░░  65%  🔄 Growing  ║
 ║  Microsoft Azure         ████████████░░░░░░░░░░░░  60%  🔄 Growing  ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -282,10 +295,31 @@ class DataAnalyst:
 <tr>
 <td width="50%" valign="top">
 
+### 🔍 Real-Time Fraud Detection Pipeline
+> **Stack:** Kafka · XGBoost · FastAPI · MLflow · Redis · Docker · Prometheus · Grafana
+
+Production-grade, end-to-end streaming fraud detection system built on **590,000+ IEEE-CIS financial transactions**. A Kafka producer simulates live transaction events; a trained XGBoost model scores each one in **< 250ms** via FastAPI, with results cached in Redis and monitored live via Prometheus + Grafana. Full MLOps lifecycle with PSI-based drift detection.
+
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC2E2E?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+> 🏆 **89.83% ROC-AUC** · ⚡ **Sub-250ms latency** · 📊 **590K+ transactions** · 🔁 **One-command Docker Compose**
+
+**[→ View Project](https://github.com/PrasanthKumarS777/fraud-detection)**
+
+</td>
+<td width="50%" valign="top">
+
 ### 🎵 Spotify Artist Intelligence Dashboard
 > **Stack:** Power BI · DAX · Spotify API
 
-End-to-end BI solution tracking artist streams, royalties & audience demographics. Automated DAX measures **reduced analysis time by 70%**.
+End-to-end BI solution tracking artist streams, royalties, and audience demographics. Automated DAX measures **reduced analysis time by 70%**.
 
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
@@ -294,12 +328,14 @@ End-to-end BI solution tracking artist streams, royalties & audience demographic
 **[→ View Project](https://github.com/PrasanthKumarS777/Spotify-Artist-Dashboard)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌍 Tourism Analytics Platform
 > **Stack:** Python · Scikit-learn · Streamlit
 
-ML platform on **50,000+ records** — rating prediction **(R²=0.85)**, visit mode classifier **(70%+ accuracy)** & hybrid recommendation engine.
+ML platform on **50,000+ records** — rating prediction **(R²=0.85)**, visit mode classifier **(70%+ accuracy)**, and a hybrid recommendation engine.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square)
@@ -308,14 +344,12 @@ ML platform on **50,000+ records** — rating prediction **(R²=0.85)**, visit m
 **[→ View Project](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Zomato NLP & Clustering Analysis
 > **Stack:** Python · NLP · Unsupervised ML
 
-Sentiment analysis + KMeans clustering on **10,000+ restaurant records** to uncover hidden cuisine & location-based market segments.
+Sentiment analysis + KMeans clustering on **10,000+ restaurant records** to uncover hidden cuisine and location-based market segments.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square)
@@ -324,6 +358,8 @@ Sentiment analysis + KMeans clustering on **10,000+ restaurant records** to unco
 **[→ View Project](https://github.com/PrasanthKumarS777/Zomato-Restaurant-Clustering-And-Sentimental-Analysis)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏦 Credit Risk Model with XAI
@@ -339,27 +375,28 @@ Production-ready credit risk classifier with **SHAP explainability** deployed as
 **[→ View Project](https://github.com/PrasanthKumarS777/loan-default-prediction-xai)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌦️ Real-Time Weather Analytics Dashboard
 > **Stack:** JavaScript · REST API · Chart.js
 
-Live weather analytics consuming real-time API feeds with dynamic interactive visualizations & location-based intelligence.
+Live weather analytics consuming real-time API feeds with dynamic interactive visualizations and location-based intelligence.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![REST API](https://img.shields.io/badge/-REST_API-0EA5E9?style=flat-square)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
 **[→ View Project](https://github.com/PrasanthKumarS777/Realtime-Weather-API-Dashboard)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💰 Financial Intelligence Dashboard
 > **Stack:** JavaScript · Firebase · Analytics
 
-Full-stack personal finance manager with real-time Firebase backend, smart budget tracking & spending behavior analytics.
+Full-stack personal finance manager with a real-time Firebase backend, smart budget tracking, and spending behavior analytics.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -367,14 +404,12 @@ Full-stack personal finance manager with real-time Firebase backend, smart budge
 **[→ View Project](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 LaxmiOS — UPSC Flashcard Platform
 > **Stack:** React · Firebase Firestore · Node.js
 
-Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian Polity* (82 chapters). Features 6-tab cards, Firestore backend with batch import scripts, and an admin panel with search & filter.
+Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian Polity* (82 chapters). Features 6-tab cards, Firestore backend with batch import scripts, and an admin panel with search and filter.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -383,13 +418,29 @@ Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian P
 **[→ View Project](https://github.com/PrasanthKumarS777/laxmios)**
 
 </td>
-<td width="50%" valign="top">
-
-<!-- Reserve slot for next project -->
-
-</td>
 </tr>
 </table>
+
+---
+
+## 🏆 Project Metrics at a Glance
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                          PROJECT METRICS DASHBOARD                             ║
+╠════════════════════════════════╦═════════════════════╦══════════════════════════╣
+║  Project                       ║  Key Metric          ║  Scale                   ║
+╠════════════════════════════════╬═════════════════════╬══════════════════════════╣
+║  🔍 Fraud Detection Pipeline   ║  ROC-AUC: 0.8983     ║  590K+ transactions      ║
+║  🌍 Tourism Analytics          ║  R²: 0.85            ║  50K+ records            ║
+║  🍽️  Zomato NLP Analysis        ║  KMeans clustering   ║  10K+ restaurants        ║
+║  🎵 Spotify BI Dashboard       ║  70% faster reports  ║  DAX automation          ║
+║  🏦 Credit Risk + XAI          ║  SHAP explainability ║  Full MLOps lifecycle    ║
+║  📚 LaxmiOS Flashcard App      ║  82 chapters         ║  Firestore backend       ║
+║  🌦️  Weather Dashboard          ║  Real-time API       ║  Live Chart.js viz       ║
+║  💰 Finance Dashboard          ║  Firebase backend    ║  Smart budget tracking   ║
+╚════════════════════════════════╩═════════════════════╩══════════════════════════╝
+```
 
 ---
 
@@ -480,7 +531,8 @@ Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian P
 │  ✅  Running 2 simultaneous internships  (Labmentix + Codec Tech)   │
 │  ✅  Deployed ML model to production     (FastAPI + Docker)         │
 │  ✅  21 certificates across 5 domains   (80+ verified hours)        │
-│  ✅  7 Projects built & shipped                                     │
+│  ✅  8 projects built & shipped                                     │
+│  ✅  Production MLOps pipeline          (Kafka + MLflow + Grafana)  │
 │  🔄  Advanced Power BI — DAX optimization & Row-Level Security      │
 │  🔄  Cloud analytics pipelines on Microsoft Azure                   │
 │  🎯  Land a full-time Data Analyst / BI Analyst role                │
