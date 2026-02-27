@@ -58,13 +58,13 @@
   <!-- Name -->
   <text x="450" y="95" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="43" font-weight="800" fill="#ffffff" text-anchor="middle"
-        letter-spacing="3.5" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>  .  
+        letter-spacing="3.5" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>  || 
   <!-- Gradient rule -->
   <rect x="175" y="104" width="550" height="2" fill="url(#hacc)" rx="1"/>
   <!-- Subtitle -->
   <text x="450" y="136" font-family="'Segoe UI',Arial,sans-serif"
         font-size="14.5" fill="#64b5f6" text-anchor="middle"
-        letter-spacing="4.5" font-weight="500">DATA ANALYST  ·  MBA FINANCE &amp; IT  ·  LPU</text>
+        letter-spacing="4.5" font-weight="500">DATA ANALYST  ||  MBA FINANCE &amp; IT  ||  LPU</text>
   <!-- Tagline -->
   <text x="450" y="172" font-family="'Courier New',monospace"
         font-size="12" fill="#0ea5e9" text-anchor="middle" opacity="0.88" letter-spacing="0.8">
