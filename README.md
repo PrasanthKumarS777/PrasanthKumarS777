@@ -4,7 +4,7 @@
 <!--   ANIMATED WELCOME BANNER — live typewriter entrance                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=120&pause=9999999&color=0EA5E9&center=true&vCenter=true&width=900&lines=+++++++++++++░W░E░L░C░O░M░E░ ░T░O░ ░M░Y░ ░P░R░O░F░I░L░E░ ░-░ ░P░R░A░S░A░N░T░H░ ░K░U░M░A░R░ ░S░A░H░U░)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=120&pause=9999999&color=0EA5E9&center=true&vCenter=true&width=900&lines=+++++++++++++░W░E░L░C░O░M░E░ +░T░O░+ ░M░Y░+ ░P░R░O░F░I░L░E░+ ░-░+ ░P░R░A░S░A░N░T░H░+ ░K░U░M░A░R░+ ░S░A░H░U░)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--   NATIVE SVG HERO HEADER                                                  -->
