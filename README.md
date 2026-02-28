@@ -113,7 +113,7 @@
 [![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&multiline=false&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+%E2%9C%85;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
 ---
 
-## 🎬 Data Science Pipeline — Animated
+## 🎬 "𝕽𝖆𝖜 𝖈𝖍𝖆𝖔𝖘 → 𝕻𝖎𝖕𝖊𝖑𝖎𝖓𝖊 𝖕𝖔𝖜𝖊𝖗: 𝕮𝖑𝖊𝖆𝖓 → 𝕰𝕯𝕬 → 𝕸𝖔𝖉𝖊𝖑 → 𝕯𝖊𝖕𝖑𝖔𝖞𝖊𝖉 𝖌𝖑𝖔𝖗𝖞!
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline" width="100%"/>
