@@ -4,7 +4,7 @@
 <!--   ANIMATED WELCOME BANNER — live typewriter entrance                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=120&pause=9999999&color=0EA5E9&center=true&vCenter=true&width=900&lines=+++++++++++▀▄▀▄▀▄ W̴̝̿̆̽͊̑͊̆͛͝Ę̸̧̘͕̞̝̌͐̑̓̑͑̚̚͝͠L̴̨̨̤̪̳͕̬͕̠̼͑́̐̚͠C̶̢̛̠̪̳͉̮̥̩̄̆̑͆͐̈́͂̋͜ͅO̵̡͎̩͉̝̮͙̖͓̓̿̍̎̐M̸̦̽̎͝Ē̷̬̬͉̰̐́̍̒̀̀̿͜͠͠ ̶̩̬̜̉͗͘T̸͇̂̄̈̀͆͝͝Ọ̸̥̟͚̋̈́̑̒̽̀́͑̊̈ ̶͙̰̮̻̰̎͊̊͑̃̾́͌͠M̴̛͈̙̰͕̻̪̑͊̾̍͛̚͜Y̴͒̌͊̈́̀̃̈́͗͘ͅ ̶̧̛̹̩̞̩͋̑́͛́͂͠͝P̷̳̀͂̆̇̑͗R̷̡͛O̴̢̖͔̭̺͉͓͆̊F̴̙͋̾̈́̈́̚̚͜ͅȈ̵͎̣̯L̶͍̦̯͖̮͕͇̗̼͛̓̉͌́͝E̸̯̜̟̰̅͐͊͌̀̚͝ ̸̨̢̛̛̳̩̜̙̹͖̈́̈̏̍͛̉ͅ-̷̨̰̬̱͈̤͎̃̔ ̵̡̰̦̘̩̳̰̀̾͗̀P̸̢̛̝̗̭̺̠͔̩̩͑̎̍̌͑͊̿̐͝R̶̺̗̱̅̓̋͒̈́̎͌͂̏͝Ą̷͙͕͕̯̘̙̐̽̐͑S̸͉̫̖̯̩̔͗Ā̶̢̝͕̫̙͂̾͌͝͝N̵͓̪̭̦͉̟͍̺̙̋̇̿T̶̟͚̹͇̀̄͘Ḩ̶̨̟̋̐͝ ̵̛͖̮̀̇͂̂̽K̵̤̿̈́͊͌̌̚U̸̧͓̺̖͔͚͓͊͗̏̀M̵̘̱̭̳̺̈̂̕ͅÁ̷̛͔Ŗ̶͎̹̤͖̈́ ̶̟̬͍͍̊̓̉̈́̏̀̚Ṡ̵̛͓̥̯͓̪̮Á̵͔̱̗͙̥̣̠̽̊́͌͘͝ͅḨ̵͓̠̙̞͚́̔̋͑͗ͅȔ̸͙̣͚̰̫̮̤̣͎̓̏̌̆́̍̈́͘ ▄▀▄▀▄▀)](https://git.io/typing-svg)
+[![Welcome](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=120&pause=9999999&color=0EA5E9&center=true&vCenter=true&width=900&lines=+++++++++++++WELCOME)](https://git.io/typing-svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--   NATIVE SVG HERO HEADER                                                  -->
