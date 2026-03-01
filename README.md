@@ -1,15 +1,13 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   ANIMATED WELCOME BANNER — live typewriter entrance                       -->
+<!--   ANIMATED WELCOME BANNER                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=░W░E░L░C░O░M░E░+░T░O░+░M░Y░+░P░R░O░F░I░L░E░;░P░R░A░S░A░N░T░H░+░K░U░M░A░R░+░S░A░H░U░" alt="Welcome Banner" />
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   NATIVE SVG HERO HEADER                                                  -->
+<!--   HERO HEADER SVG                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
@@ -39,28 +37,23 @@
     </filter>
   </defs>
   <rect width="900" height="240" fill="url(#hbg)"/>
-  <!-- Fine grid -->
   <g opacity="0.04" stroke="#0ea5e9" stroke-width="0.4">
-    <line x1="0" y1="40"  x2="900" y2="40"/> <line x1="0" y1="80"  x2="900" y2="80"/>
+    <line x1="0" y1="40"  x2="900" y2="40"/><line x1="0" y1="80"  x2="900" y2="80"/>
     <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="160" x2="900" y2="160"/>
     <line x1="0" y1="200" x2="900" y2="200"/>
     <line x1="150" y1="0" x2="150" y2="240"/><line x1="300" y1="0" x2="300" y2="240"/>
     <line x1="450" y1="0" x2="450" y2="240"/><line x1="600" y1="0" x2="600" y2="240"/>
     <line x1="750" y1="0" x2="750" y2="240"/>
   </g>
-  <!-- Glow orbs -->
   <circle cx="820" cy="55"  r="80"  fill="#7c3aed" opacity="0.06"/>
   <circle cx="860" cy="100" r="45"  fill="#0ea5e9" opacity="0.08"/>
   <circle cx="80"  cy="185" r="55"  fill="#ec4899" opacity="0.05"/>
   <circle cx="40"  cy="155" r="28"  fill="#0ea5e9" opacity="0.08"/>
   <circle cx="450" cy="30"  r="120" fill="#0ea5e9" opacity="0.025"/>
-  <!-- Wave -->
   <path d="M0,195 Q225,158 450,178 Q675,198 900,162 L900,240 L0,240 Z" fill="url(#hwv)"/>
   <path d="M0,205 Q200,175 450,192 Q700,210 900,178 L900,240 L0,240 Z" fill="#0ea5e9" opacity="0.04"/>
-  <!-- Bars -->
   <rect x="0" y="0"   width="900" height="3" fill="url(#hacc)"/>
   <rect x="0" y="237" width="900" height="3" fill="url(#hacc)" opacity="0.5"/>
-  <!-- Particles -->
   <g fill="#0ea5e9" opacity="0.5" filter="url(#softglow)">
     <circle cx="38"  cy="32"  r="2.4"/><circle cx="60"  cy="52"  r="1.6"/>
     <circle cx="28"  cy="68"  r="1.2"/><circle cx="72"  cy="22"  r="1.0"/>
@@ -71,68 +64,47 @@
     <circle cx="140" cy="18"  r="1.4"/><circle cx="760" cy="225" r="1.4"/>
     <circle cx="200" cy="228" r="1.0"/><circle cx="700" cy="15"  r="1.0"/>
   </g>
-  <!-- Corner brackets -->
-  <path d="M16,18 L16,7  L27,7"    stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M884,18 L884,7  L873,7"  stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M16,222 L16,233 L27,233"    stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M884,222 L884,233 L873,233" stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
-  <!-- Side ticks -->
+  <path d="M16,18 L16,7  L27,7"         stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M884,18 L884,7  L873,7"      stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M16,222 L16,233 L27,233"     stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M884,222 L884,233 L873,233"  stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
   <g stroke="#0ea5e9" stroke-width="1" opacity="0.3">
-    <line x1="0" y1="80"  x2="8"  y2="80"/> <line x1="0" y1="120" x2="8"  y2="120"/>
+    <line x1="0" y1="80"  x2="8"  y2="80"/><line x1="0" y1="120" x2="8"  y2="120"/>
     <line x1="0" y1="160" x2="8"  y2="160"/>
     <line x1="892" y1="80"  x2="900" y2="80"/>
     <line x1="892" y1="120" x2="900" y2="120"/>
     <line x1="892" y1="160" x2="900" y2="160"/>
   </g>
-  <!-- Name -->
-  <text x="450" y="100" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+  <!-- ✅ FIXED: Name now displays correctly -->
+  <text x="450" y="100"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle"
-        letter-spacing="4" filter="url(#hglow)"></text>
-  <!-- Rule -->
+        letter-spacing="4" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>
   <rect x="160" y="112" width="580" height="2.5" fill="url(#hacc)" rx="1.5"/>
-  <!-- Subtitle -->
   <text x="450" y="144" font-family="'Segoe UI',Arial,sans-serif"
         font-size="13.5" fill="#64b5f6" text-anchor="middle"
-        letter-spacing="5" font-weight="600">  MBA-FINANCE &amp; IT   ||  LPU</text>
-  <!-- Tagline -->
+        letter-spacing="5" font-weight="600">MBA — FINANCE &amp; IT  ·  LPU</text>
   <text x="450" y="178" font-family="'Courier New',monospace"
         font-size="11.5" fill="#0ea5e9" text-anchor="middle" opacity="0.9" letter-spacing="1">
     ⟫  Transforming raw data into strategic decisions  ⟪
   </text>
-  <!-- Labels -->
   <text x="878" y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#0ea5e9" text-anchor="end" opacity="0.4"></text>
+        fill="#0ea5e9" text-anchor="end" opacity="0.4">v2.0</text>
   <text x="22"  y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#ec4899" opacity="0.4"></text>
+        fill="#ec4899" opacity="0.4">2026</text>
 </svg>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--   LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<br/>
-
-[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&multiline=false&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+%E2%9C%85;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
----
-
-## 🎬 "𝕽𝖆𝖜 𝖈𝖍𝖆𝖔𝖘 → 𝕻𝖎𝖕𝖊𝖑𝖎𝖓𝖊 𝖕𝖔𝖜𝖊𝖗: 𝕮𝖑𝖊𝖆𝖓 → 𝕰𝕯𝕬 → 𝕸𝖔𝖉𝖊𝖑 → 𝕯𝖊𝖕𝖑𝖔𝖞𝖊𝖉 𝖌𝖑𝖔𝖗𝖞!
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline" width="100%"/>
-</div>
-
-> *Raw Data → Cleaning → EDA → ML Model → Deployed Insight — this is the journey every dataset takes.*
+[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&multiline=false&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
 
 ---
 
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   TYPING TAGLINES                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=%F0%9F%93%8A+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);%F0%9F%A7%A0+Business+Brain+%C3%97+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);%F0%9F%94%8D+Fraud+detected+in+%3C250ms+%7C+ROC-AUC+0.8983;%F0%9F%8E%AF+2+Internships+%C2%B7+21+Certs+%C2%B7+8+Projects+%C2%B7+0+Excuses)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=📊+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);🧠+Business+Brain+×+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);🔍+Fraud+detected+in+%3C250ms+%7C+ROC-AUC+0.8983;🎯+2+Internships+·+21+Certs+·+8+Projects+·+0+Excuses)](https://git.io/typing-svg)
 
 <br/>
 
@@ -201,103 +173,19 @@ class DataAnalyst:
 
 <div align="center">
 
-> *"Without data, you're just another person with an opinion."*
-> — **W. Edwards Deming**
+> *"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
 
-> *"The goal is to turn data into information, and information into insight."*
-> — **Carly Fiorina**
+> *"The goal is to turn data into information, and information into insight."* — **Carly Fiorina**
 
-> *"Torture the data long enough and it will confess to anything."*
-> — **Ronald Coase**
-
-> *"In God we trust. All others must bring data."*
-> — **W. Edwards Deming**
-
-> *"A data scientist who can't explain their model to a business exec is just an expensive calculator."*
+> *"In God we trust. All others must bring data."* — **W. Edwards Deming**
 
 > *"Clean data is worth more than a complex model. Garbage in, garbage out — no matter how fancy the algorithm."*
 
 > *"If your dashboard needs a legend to explain itself, your dashboard is the problem — not the data."*
 
-> *"Real-time is not a feature. It's a responsibility."*
-
-> 🔵 *"I don't just read data — I make it drive decisions. Because numbers without narrative are just noise."*
-> — **Prasanth Kumar Sahu**
+> 🔵 *"I don't just read data — I make it drive decisions. Because numbers without narrative are just noise."* — **Prasanth Kumar Sahu**
 
 </div>
-
----
-
-## ⚡ Technical Arsenal
-
-<div align="center">
-
-### 📊 Business Intelligence & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🐍 Python Data Science Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge)
-![Dask](https://img.shields.io/badge/Dask-FDA061?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC2E2E?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP_XAI-7c3aed?style=for-the-badge)
-
-### 🗄️ Database & Query
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud, MLOps & Deployment
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌐 Web & Security
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-003087?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD_3D-E34234?style=for-the-badge&logo=autodesk&logoColor=white)
-
-</div>
-
----
-
-## 📊 Skill Proficiency
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                      CORE SKILLS DASHBOARD                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  Excel / Data Cleaning   ████████████████████████  95%  ⭐ Master   ║
-║  Power BI / DAX          ██████████████████████░░  90%  ⭐ Expert   ║
-║  EDA / Statistics        ██████████████████████░░  90%  ⭐ Expert   ║
-║  Pandas / NumPy          █████████████████████░░░  88%  ✅ Strong   ║
-║  SQL / MySQL             ████████████████████░░░░  85%  ✅ Strong   ║
-║  Tableau                 ████████████████████░░░░  80%  ✅ Strong   ║
-║  Machine Learning        ███████████████████░░░░░  78%  ✅ Strong   ║
-║  Kafka / MLOps           ██████████████░░░░░░░░░░  68%  🔄 Growing  ║
-║  FastAPI / Docker        █████████████░░░░░░░░░░░  65%  🔄 Growing  ║
-║  Microsoft Azure         ████████████░░░░░░░░░░░░  60%  🔄 Growing  ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -314,7 +202,7 @@ class DataAnalyst:
 - 🔍 Deep EDA on operational datasets to surface actionable KPIs
 - ⚙️ Automating reporting pipelines using Python + SQL
 - 💡 Translating business questions into data-driven decisions
-- 📐 DAX measures that cut manual reporting time by **70%+**
+- 📐 DAX measures cutting manual reporting time by **70%+**
 
 `Power BI` · `DAX` · `Python` · `SQL` · `EDA`
 
@@ -338,217 +226,180 @@ class DataAnalyst:
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Tech Stack
 
 <div align="center">
 
-[![Projects](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=2000&pause=600&color=10B981&center=true&vCenter=true&width=820&lines=▶+Loading+project+registry+...;✅+fraud-detection+%5BPROD%5D+—+89.83%25+ROC-AUC+%7C+590K%2B+transactions;✅+loan-default-prediction-xai+%5BLIVE%5D+—+93.2%25+accuracy+%7C+%3C100ms;✅+Tourism-Analytics-Platform+%5BGITHUB%5D+—+R%C2%B2%3D0.85+%7C+50K%2B+records;✅+Spotify-Artist-Dashboard+%5BPBI%5D+—+70%25+faster+reporting;✅+Zomato-Clustering+%5BNLP%5D+—+85%25+segmentation+accuracy;✅+Realtime-Weather-Dashboard+%5BLIVE%5D+—+Chart.js+%7C+REST+API;✅+financial-intelligence-dashboard+%5BLIVE+on+Vercel%5D;✅+laxmios+%5BREACT%5D+—+82+chapters+%7C+Firestore;✅+DataVault+%5BETL%5D+—+multi-project+data+repository;▶+All+projects+active+%7C+registry+loaded+successfully+🎯)](https://git.io/typing-svg)
+<!-- Row 1: techstack-generator (animated live icons) -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
+      <br>Nginx
+    </td>
+  </tr>
+
+  <!-- Row 2: skillicons.dev (MLOps & Cloud) -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
+      <br>Grafana
+    </td>
+  </tr>
+
+  <!-- Row 3: skillicons.dev (Web & Dev Tools) -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/>
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
+      <br>Jupyter
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Real-Time Fraud Detection Pipeline
-> **Stack:** Kafka · XGBoost · FastAPI · MLflow · Redis · Docker · Prometheus · Grafana
-
-Production-grade, end-to-end streaming fraud detection system on **590,000+ IEEE-CIS transactions**. Kafka producer-consumer pipeline scores live transactions in **< 250ms** via FastAPI, XGBoost model versioned in MLflow Registry, Redis caching, PSI drift monitoring, and full Prometheus + Grafana observability — one-command Docker Compose startup.
-
-![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC2E2E?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-> 🏆 **89.83% ROC-AUC** · ⚡ **< 250ms latency** · 📊 **590K+ transactions** · 🔁 **Full MLOps**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/fraud-detection)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Loan Default Prediction API
-> **Stack:** Python · XGBoost · SHAP · FastAPI · React · Docker · CI/CD
-
-Production ML pipeline achieving **93.2% accuracy** with **< 100ms inference latency** for loan risk assessment. SHAP-powered explainability enables regulatory-compliant automated approvals. Fully containerized with CI/CD deployment on cloud infrastructure.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC2E2E?style=flat-square)
-![SHAP](https://img.shields.io/badge/-SHAP_XAI-7C3AED?style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-> 🏆 **93.2% Accuracy** · ⚡ **< 100ms latency** · 🔬 **SHAP XAI** · 🚀 **Live**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/loan-default-prediction-xai)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Tourism Experience Analytics Platform
-> **Stack:** Python · Random Forest · Scikit-learn · Streamlit · Pandas · Matplotlib · Seaborn
-
-End-to-end ML analytics platform on **50,000+ records** — rating prediction **(R²=0.85)**, visit mode classifier **(70%+ accuracy)**, and a hybrid recommendation engine spanning **5,000+ attractions** across **100+ countries**. Consolidated 9-dataset pipeline with an interactive Streamlit dashboard.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square)
-![Random Forest](https://img.shields.io/badge/-Random_Forest-228B22?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-> 🎯 **R²=0.85** · 📊 **50K+ records** · 🌐 **100+ countries** · 🗺️ **5K+ attractions**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Zomato NLP & Clustering Analysis
-> **Stack:** Python · NLP · KMeans · Unsupervised ML · Jupyter
-
-Sentiment analysis + KMeans clustering on **10,000+ restaurant records** achieving **85% segmentation accuracy**. Uncovered hidden cuisine trends and location-based market segments — full NLP preprocessing pipeline with visual EDA.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-8B5CF6?style=flat-square)
-![KMeans](https://img.shields.io/badge/-KMeans-EC4899?style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?style=flat-square)
-
-> 🎯 **85% Segmentation Accuracy** · 🍽️ **10K+ Restaurants** · 💬 **NLP + Clustering**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/Zomato-Restaurant-Clustering-And-Sentimental-Analysis)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 Spotify Artist Intelligence Dashboard
-> **Stack:** Power BI · DAX · Spotify API · Data Modeling · KPI Analytics
-
-End-to-end BI solution tracking artist streams, royalties, and audience demographics using live Spotify API data. Advanced DAX measures and a star-schema data model with drill-through reports and dynamic KPI cards **reduced analysis time by 70%**.
-
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square)
-![Spotify API](https://img.shields.io/badge/-Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/-Data_Modeling-0ea5e9?style=flat-square)
-
-> 📉 **70% Faster Reporting** · 🎵 **Live Spotify API** · 📊 **C-Level Dashboards**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/Spotify-Artist-Dashboard)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ Real-Time Weather Analytics Dashboard
-> **Stack:** JavaScript · REST API · Chart.js · HTML5 · CSS3
-
-Live weather analytics platform consuming real-time API feeds with dynamic interactive Chart.js visualizations and location-based intelligence. Auto-refreshing data streams with a fully responsive design.
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST_API-0EA5E9?style=flat-square)
-![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-> ⚡ **Real-Time API** · 📍 **Location Intelligence** · 📊 **Live Visualizations**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/Realtime-Weather-API-Dashboard)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💰 Financial Intelligence Dashboard
-> **Stack:** React · Firebase · Firestore · Recharts · Vite · Tailwind CSS · Vercel
-
-Full-stack personal finance manager with a real-time Firebase backend. Features transaction tracking, card management, savings goal monitoring, automated expense categorization, and dynamic Recharts visual analytics — deployed live on Vercel.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Recharts](https://img.shields.io/badge/-Recharts-FF6384?style=flat-square)
-
-> 🔥 **Live on Vercel** · 💳 **Real-Time Firebase** · 📊 **Recharts Analytics**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 LaxmiOS — UPSC Flashcard Platform
-> **Stack:** React · Firebase Firestore · Node.js · Batch Import Scripts
-
-Full-stack flashcard system for UPSC aspirants based on M. Laxmikant's *Indian Polity* — all **82 chapters** digitized. Features 6-tab interactive cards, Firestore backend with batch import scripts, and an admin panel with live search and filter.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FF9800?style=flat-square&logo=firebase&logoColor=white)
-
-> 📖 **82 Chapters** · 🔍 **Live Search & Filter** · 🛠️ **Admin Panel** · 📱 **Firestore**
-
-**[→ View Project](https://github.com/PrasanthKumarS777/laxmios)**
-
-</td>
-</tr>
-</table>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                      CORE SKILLS DASHBOARD                          ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Excel / Data Cleaning   ████████████████████████  95%  ⭐ Master   ║
+║  Power BI / DAX          ██████████████████████░░  90%  ⭐ Expert   ║
+║  EDA / Statistics        ██████████████████████░░  90%  ⭐ Expert   ║
+║  Pandas / NumPy          █████████████████████░░░  88%  ✅ Strong   ║
+║  SQL / MySQL             ████████████████████░░░░  85%  ✅ Strong   ║
+║  Tableau                 ████████████████████░░░░  80%  ✅ Strong   ║
+║  Machine Learning        ███████████████████░░░░░  78%  ✅ Strong   ║
+║  Kafka / MLOps           ██████████████░░░░░░░░░░  68%  🔄 Growing  ║
+║  FastAPI / Docker        █████████████░░░░░░░░░░░  65%  🔄 Growing  ║
+║  Microsoft Azure         ████████████░░░░░░░░░░░░  60%  🔄 Growing  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-### 🗄️ DataVault — Central Data Repository
+## 🚀 Projects
 
-> **Stack:** Python · Data Engineering · ETL · Structured & Unstructured Datasets
+<div align="center">
 
-Central data warehouse repository containing curated, cleaned, and processed datasets powering all ML and analytics projects. Structured ETL pipelines, schema documentation, and reusable data assets for rapid experimentation across the entire project portfolio.
+| Project | Key Metric | Stack | Link |
+|---------|-----------|-------|------|
+| 🔍 **Fraud Detection Pipeline** | ROC-AUC **0.8983** · 590K+ txns · <250ms | Kafka · XGBoost · FastAPI · MLflow · Docker | [→ View](https://github.com/PrasanthKumarS777/fraud-detection) |
+| 🏦 **Loan Default Prediction API** | Accuracy **93.2%** · <100ms latency · SHAP XAI | XGBoost · FastAPI · React · Docker · CI/CD | [→ View](https://github.com/PrasanthKumarS777/loan-default-prediction-xai) |
+| 🌍 **Tourism Analytics Platform** | R²=**0.85** · 50K+ records · 100+ countries | Random Forest · Streamlit · Scikit-learn | [→ View](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform) |
+| 🍽️ **Zomato NLP & Clustering** | **85%** segmentation · 10K+ restaurants | NLP · KMeans · Seaborn · Jupyter | [→ View](https://github.com/PrasanthKumarS777/Zomato-Restaurant-Clustering-And-Sentimental-Analysis) |
+| 🎵 **Spotify Artist Dashboard** | **70% faster** reporting · Live Spotify API | Power BI · DAX · Star-Schema Modeling | [→ View](https://github.com/PrasanthKumarS777/Spotify-Artist-Dashboard) |
+| 🌦️ **Real-Time Weather Dashboard** | Live REST API · Location intelligence | JavaScript · Chart.js · HTML5 · CSS3 | [→ View](https://github.com/PrasanthKumarS777/Realtime-Weather-API-Dashboard) |
+| 💰 **Financial Intelligence Dashboard** | Live on **Vercel** · Firebase real-time | React · Firebase · Recharts · Tailwind | [→ View](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard) |
+| 📚 **LaxmiOS — UPSC Flashcard App** | **82 chapters** · Live search & admin panel | React · Firestore · Node.js | [→ View](https://github.com/PrasanthKumarS777/laxmios) |
+| 🗄️ **DataVault** | ETL pipelines · Multi-project datasets | Python · Pandas · Data Engineering | [→ View](https://github.com/PrasanthKumarS777/DataVault) |
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ETL](https://img.shields.io/badge/-ETL_Pipelines-10B981?style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/-Data_Engineering-0ea5e9?style=flat-square)
-
-**[→ View Repository](https://github.com/PrasanthKumarS777/DataVault)**
-
----
-
-## 🏆 Project Metrics at a Glance
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                          PROJECT METRICS DASHBOARD                             ║
-╠════════════════════════════════╦═════════════════════╦══════════════════════════╣
-║  Project                       ║  Key Metric          ║  Scale                   ║
-╠════════════════════════════════╬═════════════════════╬══════════════════════════╣
-║  🔍 Fraud Detection Pipeline   ║  ROC-AUC: 0.8983     ║  590K+ transactions      ║
-║  🏦 Loan Default Prediction    ║  Accuracy: 93.2%     ║  < 100ms latency         ║
-║  🌍 Tourism Analytics          ║  R²: 0.85            ║  50K+ records            ║
-║  🍽️  Zomato NLP Analysis        ║  Accuracy: 85%       ║  10K+ restaurants        ║
-║  🎵 Spotify BI Dashboard       ║  70% faster reports  ║  DAX + Live API          ║
-║  🌦️  Weather Dashboard          ║  Real-time API       ║  Live Chart.js viz       ║
-║  💰 Finance Dashboard          ║  Live on Vercel      ║  Firebase real-time      ║
-║  📚 LaxmiOS Flashcard App      ║  82 chapters         ║  Firestore backend       ║
-║  🗄️  DataVault                  ║  ETL pipelines       ║  Multi-project datasets  ║
-╚════════════════════════════════╩═════════════════════╩══════════════════════════╝
-```
+</div>
 
 ---
 
 ## 📜 Certifications — 21 Verified · 80+ Hours
 
-> All certificates issued Dec 2025 – Jan 2026 · All verifiable via Udemy & Forage
-
-### 📊 Data Science & Analytics Core
+<details>
+<summary><b>📊 Data Science & Analytics Core (8 certs) — click to expand</b></summary>
+<br/>
 
 | # | Course | Platform | Hours | Verify |
 |---|--------|----------|-------|--------|
@@ -561,24 +412,18 @@ Central data warehouse repository containing curated, cleaned, and processed dat
 | 07 | 💼 Master Business Analysis | Arun Singhal / Udemy | 7.0h | [![](https://img.shields.io/badge/Verify-F97316?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-10718909-e4d1-480a-a656-66fb911bbbf4) |
 | 08 | ⚡ Master Dask: Python Parallel Computing | Meta Brains / Udemy | 3.0h | [![](https://img.shields.io/badge/Verify-FDA061?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-33fe5381-0bd0-46b1-93ff-ea66309f4407) |
 
-### ☁️ Cloud & Infrastructure
+</details>
+
+<details>
+<summary><b>☁️ Cloud, Security & Web Development (13 certs) — click to expand</b></summary>
+<br/>
 
 | # | Course | Platform | Hours | Verify |
 |---|--------|----------|-------|--------|
 | 09 | ☁️ Microsoft Azure | Learntoupgrade / Udemy | 3.0h | [![](https://img.shields.io/badge/Verify-0078D4?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-b64febe2-f37a-4bfd-a580-f7a74e0ca5fe) |
 | 10 | 🐧 Python 4000: Linux Commands & DevOps | Mr. Randall Nagy / Udemy | 4.5h | [![](https://img.shields.io/badge/Verify-FCC624?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-c0be4a9c-095f-4f02-8846-e71453255937) |
-
-### 🔐 Security & Cybersecurity
-
-| # | Course | Platform | Hours | Verify |
-|---|--------|----------|-------|--------|
 | 11 | 🛡️ NIST Cybersecurity Framework (CSF) 2.0 | Dr. Amar Massoud / Udemy | 2.0h | [![](https://img.shields.io/badge/Verify-003087?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-d3ff6da3-04a7-4cb2-83f7-3a2c72607982) |
 | 12 | 🔓 Ethically Hack the Planet Part 3 | Cyber Twinkle / Udemy | 0.5h | [![](https://img.shields.io/badge/Verify-1a1a1a?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-f6aea034-b593-41a3-81ba-9b2cd61ffae1) |
-
-### 🌐 Web Development & Engineering
-
-| # | Course | Platform | Hours | Verify |
-|---|--------|----------|-------|--------|
 | 13 | 🌐 Mastering Web Design: HTML, CSS & Gen AI | Skool of AI / Udemy | 4.5h | [![](https://img.shields.io/badge/Verify-E34F26?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-cfaaabff-0ace-4056-939f-be21426c8562) |
 | 14 | ⚛️ React.JS for Ecommerce | Meta Brains / Udemy | 3.5h | [![](https://img.shields.io/badge/Verify-61DAFB?style=flat-square&logo=udemy&logoColor=black)](https://ude.my/UC-f0334987-9e14-41c2-aca6-357dd89dc35a) |
 | 15 | 🅰️ Angular: Beginners to Advanced | Meta Brains / Udemy | 3.5h | [![](https://img.shields.io/badge/Verify-DD0031?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-7acd2f3b-be84-4288-9125-ac87c9abae81) |
@@ -586,13 +431,10 @@ Central data warehouse repository containing curated, cleaned, and processed dat
 | 17 | 🔒 Secure Python & Django: Hack-Proof Apps | Meta Brains / Udemy | 5.5h | [![](https://img.shields.io/badge/Verify-092E20?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-9363e402-7822-42e2-bc62-84db129f1905) |
 | 18 | 📐 AutoCAD 3D: Basics to Advanced Modelling | Meta Brains / Udemy | 3.5h | [![](https://img.shields.io/badge/Verify-E34234?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-0e0ad0dc-5dc0-44da-bc8f-9690c785b7f3) |
 | 19 | 🚀 No-Code SaaS Development: Idea to App | Meta Brains / Udemy | 7.5h | [![](https://img.shields.io/badge/Verify-6366F1?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-91e73cfb-8117-4b65-a40e-7eff1401e96d) |
+| 20 | 🟦 Advanced Software Engineering Job Sim | **Walmart Global Tech** / Forage | — | ✅ Verified · Dec 12, 2025 |
+| 21 | 🟧 Solutions Architecture Job Sim | **Amazon Web Services** / Forage | — | ✅ Verified · Dec 18, 2025 |
 
-### 🏆 Industry Job Simulations — Forage
-
-| # | Program | Company | Skills | Date |
-|---|---------|---------|--------|------|
-| 20 | 🟦 Advanced Software Engineering Job Sim | **Walmart Global Tech** | Data Structures · Software Architecture · DB Design · Data Munging | Dec 12, 2025 |
-| 21 | 🟧 Solutions Architecture Job Sim | **Amazon Web Services** | Designing scalable, cloud-native hosting architecture on AWS | Dec 18, 2025 |
+</details>
 
 ---
 
@@ -608,16 +450,27 @@ Central data warehouse repository containing curated, cleaned, and processed dat
 
 <img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b" width="680"/>
 
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- Auto-generated by GitHub Actions every 12 hours via snake.yml workflow     -->
+<!-- See: .github/workflows/snake.yml in this repo                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 </div>
 
 ---
@@ -641,11 +494,11 @@ Central data warehouse repository containing curated, cleaned, and processed dat
 
 ---
 
-## 🤝 Let's Connect & Build Something
+## 🤝 Let's Connect
 
 <div align="center">
 
-### I'm actively seeking **Data Analyst · BI Analyst · Junior Data Scientist** roles 🎯
+### Actively seeking **Data Analyst · BI Analyst · Junior Data Scientist** roles 🎯
 
 *Bring your messiest dataset. I'll find the story in it.*
 
@@ -675,7 +528,6 @@ Central data warehouse repository containing curated, cleaned, and processed dat
   </defs>
   <rect width="900" height="100" fill="url(#fbg)"/>
   <path d="M0,28 Q225,4 450,18 Q675,32 900,8 L900,0 L0,0 Z" fill="url(#facc)" opacity="0.14"/>
-  <path d="M0,34 Q200,8 450,24 Q700,38 900,14 L900,0 L0,0 Z" fill="#0ea5e9" opacity="0.07"/>
   <rect x="0" y="97" width="900" height="3" fill="url(#facc)"/>
   <g opacity="0.06" stroke="#0ea5e9" stroke-width="0.5">
     <line x1="0" y1="50" x2="900" y2="50"/>
