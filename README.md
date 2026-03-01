@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:003300,100:00ff41&amp;height=300&amp;section=header&amp;text=PRASANTH%20KUMAR%20SAHU&amp;fontSize=40&amp;fontColor=00ff41&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=DATA%20ANALYST%20%7C%20MBA%20Finance%20%26%20IT%20%7C%20ML%20ENGINEER&amp;descAlignY=62&amp;descAlign=50&amp;descColor=39ff14&amp;descSize=18" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=800&height=100&lines=PRASANTH+KUMAR+SAHU;Data+Analyst+%7C+MBA+Finance+%26+IT;ML+Engineer+%7C+LPU" alt="Typing SVG" />
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
