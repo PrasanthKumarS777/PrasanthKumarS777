@@ -103,8 +103,8 @@
 </defs>
 
 <!-- ══ HEADER ══ -->
-<text x="430" y="46" class="title" text-anchor="middle">⚔  CHARACTER PROFILE  ⚔</text>
-<text x="430" y="62" class="subtitle" text-anchor="middle">── DATA ANALYST CLASS · LVL MBA · LPU ──</text>
+<text x="430" y="46" class="title" text-anchor="middle">⚔  MY PROFILE  ⚔</text>
+<text x="430" y="62" class="subtitle" text-anchor="middle">── ASPIRING DATA ANALYST  · LVL MBA · LPU ──</text>
 <line x1="30" y1="72" x2="830" y2="72" stroke="#0ea5e9" stroke-width="0.8" opacity="0.4"/>
 
 <!-- ══ LEFT PANEL — Identity ══ -->
@@ -129,7 +129,7 @@
 
 <text x="42" y="292" class="lbl">DEGREE</text>
 <text x="42" y="305" font-family="Courier New" font-size="9" fill="#06b6d4">MBA — FINANCE &amp; IT</text>
-<text x="42" y="317" font-family="Courier New" font-size="9" fill="#64748b">LOVELY PROFESSIONAL UNIV.</text>
+<text x="42" y="317" font-family="Courier New" font-size="9" fill="#64748b">LOVELY PROFESSIONAL UNIVERSITY.</text>
 
 <text x="42" y="336" class="lbl">STATUS</text>
 <rect x="42" y="342" width="200" height="18" rx="3" fill="#052e16"/>
@@ -139,10 +139,10 @@
 <text x="42" y="378" class="lbl">ACTIVE QUESTS</text>
 <rect x="42" y="384" width="200" height="16" rx="2" fill="#0d2137"/>
 <circle cx="52" cy="392" r="3" class="dot1"/>
-<text x="60" y="396" font-family="Courier New" font-size="8" fill="#e2e8f0">Labmentix · Data Analyst</text>
+<text x="60" y="396" font-family="Courier New" font-size="8" fill="#e2e8f0">Labmentix · Data Science Intern</text>
 <rect x="42" y="404" width="200" height="16" rx="2" fill="#0d2137"/>
 <circle cx="52" cy="412" r="3" class="dot2"/>
-<text x="60" y="416" font-family="Courier New" font-size="8" fill="#e2e8f0">Codec Tech · Data Science</text>
+<text x="60" y="416" font-family="Courier New" font-size="8" fill="#e2e8f0">Codec Tech · Data Science Intern</text>
 
 <text x="42" y="440" class="mottoT">"I don't just read data —</text>
 <text x="42" y="454" class="mottoT"> I make it drive decisions."</text>
@@ -188,8 +188,8 @@
 <text x="290" y="353" class="grn">▸ SHAP XAI EXPLAINABILITY</text>
 <text x="290" y="370" class="cyn">▸ REAL-TIME KAFKA STREAMING</text>
 <text x="290" y="387" class="pnk">▸ PRODUCTION MLOPS PIPELINE</text>
-<text x="290" y="404" class="yel">▸ C-LEVEL BI STORYTELLING</text>
-<text x="290" y="421" class="grn">▸ FASTAPI + DOCKER DEPLOY</text>
+<text x="290" y="404" class="yel">▸ A-LEVEL BI STORYTELLING</text>
+<text x="290" y="421" class="grn">▸ FASTAPI + DOCKER DEPLOYMENT</text>
 <text x="290" y="438" class="cyn">▸ FRAUD DETECTION &lt;250MS</text>
 
 <text x="290" y="460" font-family="Courier New" font-size="8" fill="#334155">CORE STACK: Python · SQL · Power BI · Tableau · Scikit-learn · Excel</text>
@@ -220,14 +220,14 @@
   <text x="624" y="229" font-family="Courier New" font-size="18">⚡</text>
   <text x="652" y="227" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">DUAL WIELDER</text>
   <text x="652" y="240" font-family="Courier New" font-size="8" fill="#64748b">2 INTERNSHIPS · SAME TIME</text>
-  <text x="652" y="251" font-family="Courier New" font-size="8" fill="#10b981">LABMENTIX + CODEC TECH</text>
+  <text x="652" y="251" font-family="Courier New" font-size="8" fill="#10b981">LABMENTIX + CODEC TECHNOLOGIES</text>
 </g>
 
 <g class="ach4">
   <rect x="608" y="262" width="216" height="44" rx="4" fill="#0d0a1a" stroke="#8b5cf6" stroke-width="0.8"/>
   <text x="624" y="279" font-family="Courier New" font-size="18">🚀</text>
   <text x="652" y="277" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">SHIP IT FAST</text>
-  <text x="652" y="290" font-family="Courier New" font-size="8" fill="#64748b">8 PROJECTS DEPLOYED</text>
+  <text x="652" y="290" font-family="Courier New" font-size="8" fill="#64748b">10 PROJECTS DEPLOYED</text>
   <text x="652" y="301" font-family="Courier New" font-size="8" fill="#8b5cf6">REACT · FASTAPI · VERCEL</text>
 </g>
 
