@@ -231,6 +231,28 @@
       <br>Jupyter
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/>
+      <br>Rust
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logoColor=black" alt="CatBoost" width="80" height="35"/>
+      <br>CatBoost
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white" alt="XGBoost" width="80" height="35"/>
+      <br>XGBoost
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/ANN-FF6B6B?style=for-the-badge&logoColor=white" alt="ANN" width="80" height="35"/>
+      <br>ANN
+    </td>
+  </tr>
 </table>
 
 </div>
