@@ -4,7 +4,7 @@
 <!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,40:071428,70:0b1e40,100:0ea5e9&height=260&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=60&descAlign=50&descColor=64b5f6&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,30:071428,60:0b1e40,100:0ea5e9&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=38&fontColor=0ea5e9&animation=twinkling&fontAlignY=35&desc=PRASANTH%20KUMAR%20SAHU%20%E2%80%94%20MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=55&descAlign=50&descColor=ffffff&descSize=17" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
@@ -44,37 +44,24 @@
 ## 🧬 Who I Am
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- data-story.gif is already in your repo — this just references it directly -->
+<!-- RPG CHARACTER STATS — upload rpg-whoiam.svg to your repo root             -->
+<!-- Animated skill bars, achievement badges, status dots — full RPG style     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline — Raw Data → Cleaning → Analysis → ML Model → Insight" width="100%"/>
+<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/rpg-whoiam.svg" alt="Who I Am — RPG Character Stats" width="100%"/>
 </div>
 
 <br/>
 
-```python
-class DataAnalyst:
+<!-- DATA SCIENCE PIPELINE GIF — already in your repo -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline" width="100%"/>
+</div>
 
-    name        = "Prasanth Kumar Sahu"
-    degree      = "MBA — Finance & IT  |  Lovely Professional University"
-    status      = "Final Year · Open to Full-Time Data Analyst Roles 🚀"
+<br/>
 
-    internships = {
-        "Labmentix"         : "Data Analyst Intern      [🟢 ACTIVE]",
-        "Codec Technologies": "Data Science Intern      [🟢 ACTIVE]",
-    }
 
-    core_stack  = ["Python", "SQL", "Power BI", "Tableau", "Scikit-learn", "Excel"]
-    expertise   = ["EDA", "ML Modeling", "BI Dashboards", "Statistical Analysis",
-                   "Data Storytelling", "Predictive Analytics", "SHAP / XAI",
-                   "Streaming Pipelines", "MLOps", "Drift Monitoring"]
-
-    recent_win  = "Built a production fraud detection pipeline — 89.83% ROC-AUC, " \
-                  "sub-250ms latency, 590K+ transactions, full MLOps observability."
-
-    motto       = "I don't just read data — I make it drive decisions."
-```
 
 ---
 
