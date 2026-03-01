@@ -4,8 +4,7 @@
 <!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,30:071428,60:0b1e40,100:0ea5e9&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=38&fontColor=0ea5e9&animation=twinkling&fontAlignY=35&desc=PRASANTH%20KUMAR%20SAHU%20%E2%80%94%20MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=55&descAlign=50&descColor=ffffff&descSize=17" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=300&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20MBA%20Finance%20%26%20IT%20%7C%20ML%20ENGINEER&descAlignY=62&descAlign=50&descColor=39ff14&descSize=18&stroke=00ff41&strokeWidth=1" width="100%" />
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
