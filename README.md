@@ -157,6 +157,10 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
       <br>Azure
     </td>
@@ -188,12 +192,12 @@
       <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
       <br>PyTorch
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
       <br>Grafana
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
       <br>Next.js
@@ -226,19 +230,15 @@
       <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
       <br>Jupyter
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/>
       <br>Rust
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
       <br>C
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
-      <br>C++
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
@@ -279,7 +279,7 @@
       <br>SQL
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" width="80" height="35"/>
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" width="80" height="35"/>
       <br>Excel
     </td>
     <td align="center" width="96">
