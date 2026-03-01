@@ -1,115 +1,25 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   ANIMATED WELCOME BANNER                                                  -->
+<!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=░W░E░L░C░O░M░E░+░T░O░+░M░Y░+░P░R░O░F░I░L░E░;░P░R░A░S░A░N░T░H░+░K░U░M░A░R░+░S░A░H░U░" alt="Welcome Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,40:071428,70:0b1e40,100:0ea5e9&height=260&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=60&descAlign=50&descColor=64b5f6&descSize=18" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   HERO HEADER SVG                                                          -->
+<!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240">
-  <defs>
-    <linearGradient id="hbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%"   style="stop-color:#020b18"/>
-      <stop offset="35%"  style="stop-color:#071428"/>
-      <stop offset="70%"  style="stop-color:#0b1e40"/>
-      <stop offset="100%" style="stop-color:#0f2d5c"/>
-    </linearGradient>
-    <linearGradient id="hacc" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#0ea5e9"/>
-      <stop offset="50%"  style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#ec4899"/>
-    </linearGradient>
-    <linearGradient id="hwv" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%"   style="stop-color:#0ea5e9;stop-opacity:0.18"/>
-      <stop offset="100%" style="stop-color:#0ea5e9;stop-opacity:0"/>
-    </linearGradient>
-    <filter id="hglow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="softglow">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="900" height="240" fill="url(#hbg)"/>
-  <g opacity="0.04" stroke="#0ea5e9" stroke-width="0.4">
-    <line x1="0" y1="40"  x2="900" y2="40"/><line x1="0" y1="80"  x2="900" y2="80"/>
-    <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="160" x2="900" y2="160"/>
-    <line x1="0" y1="200" x2="900" y2="200"/>
-    <line x1="150" y1="0" x2="150" y2="240"/><line x1="300" y1="0" x2="300" y2="240"/>
-    <line x1="450" y1="0" x2="450" y2="240"/><line x1="600" y1="0" x2="600" y2="240"/>
-    <line x1="750" y1="0" x2="750" y2="240"/>
-  </g>
-  <circle cx="820" cy="55"  r="80"  fill="#7c3aed" opacity="0.06"/>
-  <circle cx="860" cy="100" r="45"  fill="#0ea5e9" opacity="0.08"/>
-  <circle cx="80"  cy="185" r="55"  fill="#ec4899" opacity="0.05"/>
-  <circle cx="40"  cy="155" r="28"  fill="#0ea5e9" opacity="0.08"/>
-  <circle cx="450" cy="30"  r="120" fill="#0ea5e9" opacity="0.025"/>
-  <path d="M0,195 Q225,158 450,178 Q675,198 900,162 L900,240 L0,240 Z" fill="url(#hwv)"/>
-  <path d="M0,205 Q200,175 450,192 Q700,210 900,178 L900,240 L0,240 Z" fill="#0ea5e9" opacity="0.04"/>
-  <rect x="0" y="0"   width="900" height="3" fill="url(#hacc)"/>
-  <rect x="0" y="237" width="900" height="3" fill="url(#hacc)" opacity="0.5"/>
-  <g fill="#0ea5e9" opacity="0.5" filter="url(#softglow)">
-    <circle cx="38"  cy="32"  r="2.4"/><circle cx="60"  cy="52"  r="1.6"/>
-    <circle cx="28"  cy="68"  r="1.2"/><circle cx="72"  cy="22"  r="1.0"/>
-    <circle cx="855" cy="192" r="2.4"/><circle cx="875" cy="175" r="1.6"/>
-    <circle cx="840" cy="182" r="1.2"/><circle cx="866" cy="208" r="1.0"/>
-  </g>
-  <g fill="#ec4899" opacity="0.4">
-    <circle cx="140" cy="18"  r="1.4"/><circle cx="760" cy="225" r="1.4"/>
-    <circle cx="200" cy="228" r="1.0"/><circle cx="700" cy="15"  r="1.0"/>
-  </g>
-  <path d="M16,18 L16,7  L27,7"         stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M884,18 L884,7  L873,7"      stroke="#0ea5e9" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M16,222 L16,233 L27,233"     stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
-  <path d="M884,222 L884,233 L873,233"  stroke="#ec4899" stroke-width="2" fill="none" opacity="0.7"/>
-  <g stroke="#0ea5e9" stroke-width="1" opacity="0.3">
-    <line x1="0" y1="80"  x2="8"  y2="80"/><line x1="0" y1="120" x2="8"  y2="120"/>
-    <line x1="0" y1="160" x2="8"  y2="160"/>
-    <line x1="892" y1="80"  x2="900" y2="80"/>
-    <line x1="892" y1="120" x2="900" y2="120"/>
-    <line x1="892" y1="160" x2="900" y2="160"/>
-  </g>
-  <!-- ✅ FIXED: Name now displays correctly -->
-  <text x="450" y="100"
-        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
-        font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle"
-        letter-spacing="4" filter="url(#hglow)">PRASANTH KUMAR SAHU</text>
-  <rect x="160" y="112" width="580" height="2.5" fill="url(#hacc)" rx="1.5"/>
-  <text x="450" y="144" font-family="'Segoe UI',Arial,sans-serif"
-        font-size="13.5" fill="#64b5f6" text-anchor="middle"
-        letter-spacing="5" font-weight="600">MBA — FINANCE &amp; IT  ·  LPU</text>
-  <text x="450" y="178" font-family="'Courier New',monospace"
-        font-size="11.5" fill="#0ea5e9" text-anchor="middle" opacity="0.9" letter-spacing="1">
-    ⟫  Transforming raw data into strategic decisions  ⟪
-  </text>
-  <text x="878" y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#0ea5e9" text-anchor="end" opacity="0.4">v2.0</text>
-  <text x="22"  y="230" font-family="'Courier New',monospace" font-size="8"
-        fill="#ec4899" opacity="0.4">2026</text>
-</svg>
+[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=780&lines=📊+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);🧠+Business+Brain+×+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);🔍+Fraud+detected+in+%3C250ms+%7C+ROC-AUC+0.8983;🎯+2+Internships+·+21+Certs+·+8+Projects+·+0+Excuses)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&multiline=false&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&multiline=false&width=780&lines=📊+Transforming+raw+data+into+strategic+decisions;SELECT+insight+FROM+data+WHERE+noise+%3D+0;model.fit(business_problem%2C+data_solution);🧠+Business+Brain+×+Data+Science+Toolkit;dashboard.deploy(%22C-Level+Decision+Support%22);🔍+Fraud+detected+in+%3C250ms+%7C+ROC-AUC+0.8983;🎯+2+Internships+·+21+Certs+·+8+Projects+·+0+Excuses)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--   STATUS + CONTACT BADGES                                                  -->
+<!--  STATUS + CONTACT BADGES                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 [![Status](https://img.shields.io/badge/🟢_Status-Open_to_Full_Time_Roles-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/prasanthsahu7)
@@ -118,11 +28,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-PrasanthKumarS777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777)
 [![Profile Views](https://komarev.com/ghpvc/?username=PrasanthKumarS777&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/PrasanthKumarS777)
 
-</div>
-
----
-
-<div align="center">
+<br/>
 
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
@@ -136,6 +42,17 @@
 ---
 
 ## 🧬 Who I Am
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED TERMINAL — upload terminal.svg to your repo root for this to work -->
+<!-- It shows your fraud detection pipeline executing line-by-line with colors  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/terminal.svg" alt="Live Data Pipeline Terminal" width="100%"/>
+</div>
+
+<br/>
 
 ```python
 class DataAnalyst:
@@ -157,19 +74,12 @@ class DataAnalyst:
     recent_win  = "Built a production fraud detection pipeline — 89.83% ROC-AUC, " \
                   "sub-250ms latency, 590K+ transactions, full MLOps observability."
 
-    fun_facts   = [
-        "I see stories in spreadsheets others call 'messy'",
-        "I deployed ML to production before finishing my MBA",
-        "I run 2 internships simultaneously — because once is never enough",
-        "I built a real-time Kafka streaming pipeline just for fun",
-    ]
-
     motto       = "I don't just read data — I make it drive decisions."
 ```
 
 ---
 
-## 💬 A Data Scientist's Mantras
+## 💬 Data Scientist's Mantras
 
 <div align="center">
 
@@ -177,13 +87,9 @@ class DataAnalyst:
 
 > *"The goal is to turn data into information, and information into insight."* — **Carly Fiorina**
 
-> *"In God we trust. All others must bring data."* — **W. Edwards Deming**
+> *"Clean data is worth more than a complex model. Garbage in, garbage out."*
 
-> *"Clean data is worth more than a complex model. Garbage in, garbage out — no matter how fancy the algorithm."*
-
-> *"If your dashboard needs a legend to explain itself, your dashboard is the problem — not the data."*
-
-> 🔵 *"I don't just read data — I make it drive decisions. Because numbers without narrative are just noise."* — **Prasanth Kumar Sahu**
+> 🔵 *"I don't just read data — I make it drive decisions. Numbers without narrative are just noise."* — **Prasanth Kumar Sahu**
 
 </div>
 
@@ -198,10 +104,9 @@ class DataAnalyst:
 ### 🏢 Labmentix
 **`Data Analyst Intern`** &nbsp; ![Active](https://img.shields.io/badge/🟢-ACTIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-- 📊 Building production Power BI dashboards for C-level stakeholders
-- 🔍 Deep EDA on operational datasets to surface actionable KPIs
-- ⚙️ Automating reporting pipelines using Python + SQL
-- 💡 Translating business questions into data-driven decisions
+- 📊 Production Power BI dashboards for C-level stakeholders
+- 🔍 Deep EDA surfacing actionable KPIs
+- ⚙️ Automating reporting pipelines via Python + SQL
 - 📐 DAX measures cutting manual reporting time by **70%+**
 
 `Power BI` · `DAX` · `Python` · `SQL` · `EDA`
@@ -212,10 +117,9 @@ class DataAnalyst:
 ### 🔬 Codec Technologies
 **`Data Science Intern`** &nbsp; ![Active](https://img.shields.io/badge/🟢-ACTIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-- 🧠 Designing end-to-end ML pipelines: raw data → deployment
+- 🧠 End-to-end ML pipelines: raw data → deployment
 - 🔧 Feature engineering, model selection, hyperparameter tuning
-- 📈 Predictive models solving real business problems
-- 🔬 SHAP explainability for stakeholder trust & interpretability
+- 🔬 SHAP explainability for stakeholder interpretability
 - 🚀 Containerized API deployment via FastAPI + Docker
 
 `Scikit-learn` · `XGBoost` · `SHAP` · `FastAPI` · `Docker`
@@ -230,7 +134,6 @@ class DataAnalyst:
 
 <div align="center">
 
-<!-- Row 1: techstack-generator (animated live icons) -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -270,8 +173,6 @@ class DataAnalyst:
       <br>Nginx
     </td>
   </tr>
-
-  <!-- Row 2: skillicons.dev (MLOps & Cloud) -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
@@ -310,8 +211,6 @@ class DataAnalyst:
       <br>Grafana
     </td>
   </tr>
-
-  <!-- Row 3: skillicons.dev (Web & Dev Tools) -->
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
@@ -375,21 +274,21 @@ class DataAnalyst:
 
 ---
 
-## 🚀 Projects
+## 🚀 Top Projects
 
 <div align="center">
 
-| Project | Key Metric | Stack | Link |
-|---------|-----------|-------|------|
-| 🔍 **Fraud Detection Pipeline** | ROC-AUC **0.8983** · 590K+ txns · <250ms | Kafka · XGBoost · FastAPI · MLflow · Docker | [→ View](https://github.com/PrasanthKumarS777/fraud-detection) |
-| 🏦 **Loan Default Prediction API** | Accuracy **93.2%** · <100ms latency · SHAP XAI | XGBoost · FastAPI · React · Docker · CI/CD | [→ View](https://github.com/PrasanthKumarS777/loan-default-prediction-xai) |
-| 🌍 **Tourism Analytics Platform** | R²=**0.85** · 50K+ records · 100+ countries | Random Forest · Streamlit · Scikit-learn | [→ View](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform) |
-| 🍽️ **Zomato NLP & Clustering** | **85%** segmentation · 10K+ restaurants | NLP · KMeans · Seaborn · Jupyter | [→ View](https://github.com/PrasanthKumarS777/Zomato-Restaurant-Clustering-And-Sentimental-Analysis) |
-| 🎵 **Spotify Artist Dashboard** | **70% faster** reporting · Live Spotify API | Power BI · DAX · Star-Schema Modeling | [→ View](https://github.com/PrasanthKumarS777/Spotify-Artist-Dashboard) |
-| 🌦️ **Real-Time Weather Dashboard** | Live REST API · Location intelligence | JavaScript · Chart.js · HTML5 · CSS3 | [→ View](https://github.com/PrasanthKumarS777/Realtime-Weather-API-Dashboard) |
-| 💰 **Financial Intelligence Dashboard** | Live on **Vercel** · Firebase real-time | React · Firebase · Recharts · Tailwind | [→ View](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard) |
-| 📚 **LaxmiOS — UPSC Flashcard App** | **82 chapters** · Live search & admin panel | React · Firestore · Node.js | [→ View](https://github.com/PrasanthKumarS777/laxmios) |
-| 🗄️ **DataVault** | ETL pipelines · Multi-project datasets | Python · Pandas · Data Engineering | [→ View](https://github.com/PrasanthKumarS777/DataVault) |
+[![Fraud Detection](https://img.shields.io/badge/🔍_Fraud_Detection_Pipeline-ROC--AUC_0.8983_·_590K%2B_txns_·_%3C250ms-ec4899?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/fraud-detection)
+
+[![Loan Default API](https://img.shields.io/badge/🏦_Loan_Default_Prediction_API-93.2%25_Accuracy_·_SHAP_XAI_·_%3C100ms-0ea5e9?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/loan-default-prediction-xai)
+
+[![Tourism Analytics](https://img.shields.io/badge/🌍_Tourism_Analytics_Platform-R²%3D0.85_·_50K%2B_records_·_100%2B_countries-7c3aed?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform)
+
+[![Finance Dashboard](https://img.shields.io/badge/💰_Financial_Intelligence_Dashboard-Live_on_Vercel_·_Firebase_·_Recharts-10b981?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard)
+
+<br/>
+
+[![View All 8 Projects](https://img.shields.io/badge/📂_EXPLORE_ALL_8_PROJECTS_→-Fraud_·_ML_·_BI_·_Web_·_NLP-f59e0b?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories&sort=stars)
 
 </div>
 
@@ -398,7 +297,7 @@ class DataAnalyst:
 ## 📜 Certifications — 21 Verified · 80+ Hours
 
 <details>
-<summary><b>📊 Data Science & Analytics Core (8 certs) — click to expand</b></summary>
+<summary><b>📊 Data Science & Analytics Core — 8 certificates</b></summary>
 <br/>
 
 | # | Course | Platform | Hours | Verify |
@@ -415,7 +314,7 @@ class DataAnalyst:
 </details>
 
 <details>
-<summary><b>☁️ Cloud, Security & Web Development (13 certs) — click to expand</b></summary>
+<summary><b>☁️ Cloud, Security & Web Development — 13 certificates</b></summary>
 <br/>
 
 | # | Course | Platform | Hours | Verify |
@@ -431,8 +330,8 @@ class DataAnalyst:
 | 17 | 🔒 Secure Python & Django: Hack-Proof Apps | Meta Brains / Udemy | 5.5h | [![](https://img.shields.io/badge/Verify-092E20?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-9363e402-7822-42e2-bc62-84db129f1905) |
 | 18 | 📐 AutoCAD 3D: Basics to Advanced Modelling | Meta Brains / Udemy | 3.5h | [![](https://img.shields.io/badge/Verify-E34234?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-0e0ad0dc-5dc0-44da-bc8f-9690c785b7f3) |
 | 19 | 🚀 No-Code SaaS Development: Idea to App | Meta Brains / Udemy | 7.5h | [![](https://img.shields.io/badge/Verify-6366F1?style=flat-square&logo=udemy&logoColor=white)](https://ude.my/UC-91e73cfb-8117-4b65-a40e-7eff1401e96d) |
-| 20 | 🟦 Advanced Software Engineering Job Sim | **Walmart Global Tech** / Forage | — | ✅ Verified · Dec 12, 2025 |
-| 21 | 🟧 Solutions Architecture Job Sim | **Amazon Web Services** / Forage | — | ✅ Verified · Dec 18, 2025 |
+| 20 | 🟦 Advanced Software Engineering Job Sim | **Walmart Global Tech** / Forage | — | ✅ Dec 12, 2025 |
+| 21 | 🟧 Solutions Architecture Job Sim | **Amazon Web Services** / Forage | — | ✅ Dec 18, 2025 |
 
 </details>
 
@@ -460,37 +359,26 @@ class DataAnalyst:
 
 ## 🐍 Contribution Snake
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- Auto-generated by GitHub Actions every 12 hours via snake.yml workflow     -->
-<!-- See: .github/workflows/snake.yml in this repo                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  SNAKE SETUP — One time only:                                   ║
+  ║  1. Create folder .github/workflows/ in this repo              ║
+  ║  2. Upload snake.yml into that folder                          ║
+  ║  3. Go to Actions tab → "Generate Contribution Snake"          ║
+  ║  4. Click "Run workflow" — done! Updates every 12 hours        ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution grid snake animation" width="100%"
+       src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
-
----
-
-## 🎯 Q1 2026 Roadmap
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        Q1 2026 GOALS                                │
-├─────────────────────────────────────────────────────────────────────┤
-│  ✅  Running 2 simultaneous internships  (Labmentix + Codec Tech)   │
-│  ✅  Deployed ML model to production     (FastAPI + Docker)         │
-│  ✅  21 certificates across 5 domains   (80+ verified hours)        │
-│  ✅  8 projects built & shipped                                     │
-│  ✅  Production MLOps pipeline          (Kafka + MLflow + Grafana)  │
-│  🔄  Advanced Power BI — DAX optimization & Row-Level Security      │
-│  🔄  Cloud analytics pipelines on Microsoft Azure                   │
-│  🎯  Land a full-time Data Analyst / BI Analyst role                │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -514,33 +402,7 @@ class DataAnalyst:
 
 <br/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100">
-  <defs>
-    <linearGradient id="fbg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#020b18"/>
-      <stop offset="100%" style="stop-color:#0b1e40"/>
-    </linearGradient>
-    <linearGradient id="facc" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   style="stop-color:#0ea5e9"/>
-      <stop offset="50%"  style="stop-color:#7c3aed"/>
-      <stop offset="100%" style="stop-color:#ec4899"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="100" fill="url(#fbg)"/>
-  <path d="M0,28 Q225,4 450,18 Q675,32 900,8 L900,0 L0,0 Z" fill="url(#facc)" opacity="0.14"/>
-  <rect x="0" y="97" width="900" height="3" fill="url(#facc)"/>
-  <g opacity="0.06" stroke="#0ea5e9" stroke-width="0.5">
-    <line x1="0" y1="50" x2="900" y2="50"/>
-    <line x1="300" y1="0" x2="300" y2="100"/>
-    <line x1="600" y1="0" x2="600" y2="100"/>
-  </g>
-  <text x="450" y="52" font-family="'Segoe UI',Arial,sans-serif"
-        font-size="15.5" fill="#ffffff" text-anchor="middle"
-        font-weight="700" letter-spacing="2">Data drives decisions. I drive data.</text>
-  <text x="450" y="74" font-family="'Courier New',monospace"
-        font-size="10" fill="#0ea5e9" text-anchor="middle" opacity="0.65" letter-spacing="1">
-    © Prasanth Kumar Sahu  ·  PrasanthKumarS777  ·  2026
-  </text>
-</svg>
+<!-- FOOTER wave — capsule-render renders 100% on GitHub -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0ea5e9&height=130&section=footer&text=Data+drives+decisions.+I+drive+data.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
