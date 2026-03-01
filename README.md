@@ -4,7 +4,7 @@
 <!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,30:071428,60:0b1e40,100:0ea5e9&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=38&fontColor=0ea5e9&animation=twinkling&fontAlignY=35&desc=PRASANTH%20KUMAR%20SAHU%20%E2%80%94%20MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=55&descAlign=50&descColor=ffffff&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020b18,30:071428,60:0b1e40,100:0ea5e9&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=38&fontColor=0ea5e9&animation=twinkling&fontAlignY=35&desc=PRASANTH%20KUMAR%20SAHU%20%E2%80%94%20MBA%20Finance%20%26%20IT%20%7C%20Data%20Analyst%20%7C%20LPU&descAlignY=55&descAlign=50&descColor=ffffff&descSize=17" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
@@ -351,16 +351,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution grid snake animation" width="100%"
-       src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
 
 ---
 
