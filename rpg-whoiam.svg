@@ -119,7 +119,7 @@
 <text x="140" y="158" font-family="Courier New" font-size="28" text-anchor="middle" fill="#0ea5e9">🧠</text>
 <rect x="82"  y="182" width="116" height="44" rx="3" fill="#1e293b"/>
 <text x="140" y="198" font-family="Courier New" font-size="9"  text-anchor="middle" fill="#94a3b8">ROLE:</text>
-<text x="140" y="213" font-family="Courier New" font-size="9"  text-anchor="middle" fill="#0ea5e9" font-weight="bold">DATA ANALYST</text>
+<text x="140" y="213" font-family="Courier New" font-size="9"  text-anchor="middle" fill="#0ea5e9" font-weight="bold">ASPIRING DATA ANALYST</text>
 <text x="140" y="225" font-family="Courier New" font-size="7"  text-anchor="middle" fill="#64748b">+ DATA SCIENCE INTERN</text>
 
 <line x1="42" y1="242" x2="242" y2="242" stroke="#1e293b" stroke-width="1"/>
