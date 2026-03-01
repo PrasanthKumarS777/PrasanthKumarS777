@@ -44,12 +44,11 @@
 ## 🧬 Who I Am
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED TERMINAL — upload terminal.svg to your repo root for this to work -->
-<!-- It shows your fraud detection pipeline executing line-by-line with colors  -->
+<!-- data-story.gif is already in your repo — this just references it directly -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/terminal.svg" alt="Live Data Pipeline Terminal" width="100%"/>
+<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline — Raw Data → Cleaning → Analysis → ML Model → Insight" width="100%"/>
 </div>
 
 <br/>
