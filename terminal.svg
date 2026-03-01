@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <defs>
+    <style>
+      .tb  { fill: #0d1117; }
+      .tbar{ fill: #161b22; }
+      .mono{ font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .dim { fill: #484f58; }
+      .wht { fill: #e6edf3; }
+      .grn { fill: #3fb950; }
+      .blu { fill: #58a6ff; }
+      .yel { fill: #d29922; }
+      .pnk { fill: #f778ba; }
+      .cyn { fill: #39d3c3; }
+      .cursor { fill: #3fb950; }
+      .l0  { opacity:0; animation: pop .05s  0.2s  forwards; }
+      .l1  { opacity:0; animation: pop .05s  0.9s  forwards; }
+      .l2  { opacity:0; animation: pop .05s  1.7s  forwards; }
+      .l3  { opacity:0; animation: pop .05s  2.5s  forwards; }
+      .l4  { opacity:0; animation: pop .05s  3.3s  forwards; }
+      .l5  { opacity:0; animation: pop .05s  4.1s  forwards; }
+      .l6  { opacity:0; animation: pop .05s  4.9s  forwards; }
+      .l7  { opacity:0; animation: pop .05s  5.7s  forwards; }
+      .l8  { opacity:0; animation: pop .05s  6.5s  forwards; }
+      .l9  { opacity:0; animation: pop .05s  7.3s  forwards; }
+      .l10 { opacity:0; animation: pop .05s  8.1s  forwards; }
+      .l11 { opacity:0; animation: pop .05s  8.9s  forwards; }
+      .cur { opacity:0; animation: pop .05s  9.2s  forwards; }
+      .blk { animation: blink 1s step-end infinite; }
+      @keyframes pop  { to { opacity: 1; } }
+      @keyframes blink{ 50% { opacity: 0; } }
+    </style>
+    <pattern id="scan" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" y="0" fill="#000" opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="420" rx="10" class="tb"/>
+  <rect width="800" height="420" rx="10" fill="url(#scan)"/>
+  <rect width="800" height="38" rx="10" class="tbar"/>
+  <rect y="28" width="800" height="10" class="tbar"/>
+  <circle cx="22" cy="19" r="7" fill="#ff5f57"/>
+  <circle cx="45" cy="19" r="7" fill="#febc2e"/>
+  <circle cx="68" cy="19" r="7" fill="#28c840"/>
+  <text x="400" y="24" font-family="Courier New, monospace" font-size="12" fill="#484f58" text-anchor="middle">prasanth@data-lab:~/fraud-detection-pipeline</text>
+  <rect x="0" y="38" width="800" height="1.5" fill="#0ea5e9" opacity="0.3"/>
+  <g class="l0">
+    <text x="20" y="68" font-family="Courier New, monospace" font-size="13" fill="#3fb950">&#10087;</text>
+    <text x="36" y="68" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> python pipeline.py</text>
+    <text x="208" y="68" font-family="Courier New, monospace" font-size="13" fill="#39d3c3"> --mode=production</text>
+    <text x="373" y="68" font-family="Courier New, monospace" font-size="13" fill="#484f58"> # IEEE-CIS 590K</text>
+  </g>
+  <g class="l1">
+    <text x="20" y="93" font-family="Courier New, monospace" font-size="13" fill="#484f58">----------------------------------------------------------------</text>
+  </g>
+  <g class="l2">
+    <text x="20" y="120" font-family="Courier New, monospace" font-size="13" fill="#58a6ff">  [INGEST] </text>
+    <text x="130" y="120" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Loading 590,847 transaction records</text>
+    <text x="515" y="120" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  DONE</text>
+  </g>
+  <g class="l3">
+    <text x="20" y="148" font-family="Courier New, monospace" font-size="13" fill="#58a6ff">  [EDA]    </text>
+    <text x="130" y="148" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Exploratory analysis + outlier detection</text>
+    <text x="515" y="148" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  847 flagged</text>
+  </g>
+  <g class="l4">
+    <text x="20" y="176" font-family="Courier New, monospace" font-size="13" fill="#58a6ff">  [FEAT]   </text>
+    <text x="130" y="176" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Feature engineering pipeline</text>
+    <text x="380" y="176" font-family="Courier New, monospace" font-size="13" fill="#484f58">  ...............</text>
+    <text x="515" y="176" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  434 features</text>
+  </g>
+  <g class="l5">
+    <text x="20" y="204" font-family="Courier New, monospace" font-size="13" fill="#d29922">  [TRAIN]  </text>
+    <text x="130" y="204" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> XGBClassifier().fit(X_train, y_train)</text>
+    <text x="500" y="204" font-family="Courier New, monospace" font-size="13" fill="#484f58">  ....</text>
+    <text x="548" y="204" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  DONE</text>
+  </g>
+  <g class="l6">
+    <text x="20" y="232" font-family="Courier New, monospace" font-size="13" fill="#58a6ff">  [EVAL]   </text>
+    <text x="130" y="232" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Holdout evaluation </text>
+    <text x="305" y="232" font-family="Courier New, monospace" font-size="13" fill="#484f58">  .........</text>
+    <text x="388" y="232" font-family="Courier New, monospace" font-size="13" fill="#f778ba">  ROC-AUC: 0.8983</text>
+    <text x="528" y="232" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  P:0.84</text>
+  </g>
+  <g class="l7">
+    <text x="20" y="260" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  [DEPLOY] </text>
+    <text x="130" y="260" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> FastAPI endpoint starting</text>
+    <text x="345" y="260" font-family="Courier New, monospace" font-size="13" fill="#484f58">  ............</text>
+    <text x="462" y="260" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  :8000 LIVE</text>
+  </g>
+  <g class="l8">
+    <text x="20" y="288" font-family="Courier New, monospace" font-size="13" fill="#58a6ff">  [KAFKA]  </text>
+    <text x="130" y="288" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Stream consumer active</text>
+    <text x="320" y="288" font-family="Courier New, monospace" font-size="13" fill="#484f58">  .................</text>
+    <text x="462" y="288" font-family="Courier New, monospace" font-size="13" fill="#3fb950">  1,000+ tx/s</text>
+  </g>
+  <g class="l9">
+    <text x="20" y="316" font-family="Courier New, monospace" font-size="13" fill="#f778ba">  [DETECT] </text>
+    <text x="130" y="316" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> Real-time fraud scoring</text>
+    <text x="330" y="316" font-family="Courier New, monospace" font-size="13" fill="#484f58">  ................</text>
+    <text x="462" y="316" font-family="Courier New, monospace" font-size="13" fill="#f778ba">  FRAUD: 247ms</text>
+  </g>
+  <g class="l10">
+    <text x="20" y="341" font-family="Courier New, monospace" font-size="13" fill="#484f58">----------------------------------------------------------------</text>
+  </g>
+  <g class="l11">
+    <text x="20" y="368" font-family="Courier New, monospace" font-size="13" font-weight="bold" fill="#3fb950"> PIPELINE COMPLETE</text>
+    <text x="185" y="368" font-family="Courier New, monospace" font-size="13" fill="#e6edf3"> -- production-grade | MLflow | Grafana | 0.8983 ROC-AUC</text>
+  </g>
+  <g class="cur">
+    <text x="20" y="396" font-family="Courier New, monospace" font-size="13" fill="#3fb950">&#10087;</text>
+    <rect x="36" y="383" width="8" height="15" fill="#3fb950" class="blk"/>
+  </g>
+</svg>
