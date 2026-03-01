@@ -151,8 +151,8 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65"/>
-      <br>Nginx
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+      <br>Java
     </td>
   </tr>
   <tr>
@@ -199,10 +199,6 @@
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular"/>
-      <br>Angular
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
       <br>Tailwind
     </td>
@@ -230,27 +226,65 @@
       <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
       <br>Jupyter
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
-      <br>Java
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust"/>
       <br>Rust
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logoColor=black" alt="CatBoost" width="80" height="35"/>
-      <br>CatBoost
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+      <br>Vercel
     </td>
     <td align="center" width="96">
       <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logoColor=white" alt="XGBoost" width="80" height="35"/>
       <br>XGBoost
     </td>
     <td align="center" width="96">
+      <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logoColor=black" alt="CatBoost" width="80" height="35"/>
+      <br>CatBoost
+    </td>
+    <td align="center" width="96">
       <img src="https://img.shields.io/badge/ANN-FF6B6B?style=for-the-badge&logoColor=white" alt="ANN" width="80" height="35"/>
       <br>ANN
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" alt="Matplotlib" width="80" height="35"/>
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" width="80" height="35"/>
+      <br>Seaborn
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/SHAP-FF6600?style=for-the-badge&logoColor=white" alt="SHAP" width="80" height="35"/>
+      <br>SHAP
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logoColor=white" alt="Dask" width="80" height="35"/>
+      <br>Dask
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" width="80" height="35"/>
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" width="80" height="35"/>
+      <br>Excel
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" width="80" height="35"/>
+      <br>Colab
     </td>
   </tr>
 </table>
