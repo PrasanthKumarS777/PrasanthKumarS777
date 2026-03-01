@@ -3,8 +3,8 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  HERO — capsule-render (100% renders on GitHub, unlike inline SVG blocks) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=0:000000,50:003300,100:00ff41&amp;height=300&amp;section=header&amp;text=PRASANTH%20KUMAR%20SAHU&amp;fontSize=40&amp;fontColor=00ff41&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=DATA%20ANALYST%20%7C%20MBA%20Finance%20%26%20IT%20%7C%20ML%20ENGINEER&amp;descAlignY=62&amp;descAlign=50&amp;descColor=39ff14&amp;descSize=18" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00ff41&height=300&section=header&text=PRASANTH%20KUMAR%20SAHU&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=DATA%20ANALYST%20%7C%20MBA%20Finance%20%26%20IT%20%7C%20ML%20ENGINEER&descAlignY=62&descAlign=50&descColor=39ff14&descSize=18&stroke=00ff41&strokeWidth=1" width="100%" />
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -374,6 +374,6 @@
 <br/>
 
 <!-- FOOTER wave — capsule-render renders 100% on GitHub -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:7c3aed,100:0ea5e9&height=130&section=footer&text=Data+drives+decisions.+I+drive+data.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
 
 </div>
