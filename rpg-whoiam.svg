@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480">
+<defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+
+    .bg       { fill: #0a0e1a; }
+    .panel    { fill: #0d1425; stroke: #0ea5e9; stroke-width: 1.5; }
+    .panel2   { fill: #0d1425; stroke: #7c3aed; stroke-width: 1; }
+    .hdr      { fill: #0ea5e9; font-family: 'Courier New', monospace; font-size: 10px; font-weight: bold; letter-spacing: 2px; }
+    .lbl      { fill: #64748b; font-family: 'Courier New', monospace; font-size: 10px; }
+    .val      { fill: #e2e8f0; font-family: 'Courier New', monospace; font-size: 11px; font-weight: bold; }
+    .grn      { fill: #10b981; font-family: 'Courier New', monospace; font-size: 10px; }
+    .pnk      { fill: #ec4899; font-family: 'Courier New', monospace; font-size: 10px; }
+    .yel      { fill: #f59e0b; font-family: 'Courier New', monospace; font-size: 10px; }
+    .cyn      { fill: #06b6d4; font-family: 'Courier New', monospace; font-size: 10px; }
+    .title    { fill: #ffffff; font-family: 'Courier New', monospace; font-size: 16px; font-weight: bold; letter-spacing: 4px; }
+    .subtitle { fill: #94a3b8; font-family: 'Courier New', monospace; font-size: 9px; letter-spacing: 2px; }
+    .mottoT   { fill: #e2e8f0; font-family: 'Courier New', monospace; font-size: 10px; font-style: italic; }
+
+    /* bar tracks */
+    .btrack { fill: #1e293b; rx: 3; }
+
+    /* animated bars */
+    .bar-py  { fill: #3b82f6; animation: grow-py  1.4s 0.3s ease-out both; }
+    .bar-pbi { fill: #f59e0b; animation: grow-pbi 1.4s 0.5s ease-out both; }
+    .bar-sql { fill: #10b981; animation: grow-sql 1.4s 0.7s ease-out both; }
+    .bar-ml  { fill: #8b5cf6; animation: grow-ml  1.4s 0.9s ease-out both; }
+    .bar-eda { fill: #ec4899; animation: grow-eda 1.4s 1.1s ease-out both; }
+    .bar-k   { fill: #06b6d4; animation: grow-k   1.4s 1.3s ease-out both; }
+
+    @keyframes grow-py  { from { width: 0; } to { width: 186px; } }
+    @keyframes grow-pbi { from { width: 0; } to { width: 198px; } }
+    @keyframes grow-sql { from { width: 0; } to { width: 175px; } }
+    @keyframes grow-ml  { from { width: 0; } to { width: 162px; } }
+    @keyframes grow-eda { from { width: 0; } to { width: 198px; } }
+    @keyframes grow-k   { from { width: 0; } to { width: 140px; } }
+
+    /* blinking cursor */
+    .cur  { animation: blink 1s step-end infinite; fill: #0ea5e9; }
+    @keyframes blink { 50% { opacity: 0; } }
+
+    /* pulsing status dots */
+    .dot1 { fill: #10b981; animation: pulse 2s 0s ease-in-out infinite; }
+    .dot2 { fill: #10b981; animation: pulse 2s 0.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.3; } }
+
+    /* corner decorations fade in */
+    .fade { animation: fadein 0.8s 0.1s ease-out both; }
+    @keyframes fadein { from { opacity:0; } to { opacity:1; } }
+
+    /* achievement badges pop in */
+    .ach1 { opacity:0; animation: pop 0.3s 1.8s forwards; }
+    .ach2 { opacity:0; animation: pop 0.3s 2.0s forwards; }
+    .ach3 { opacity:0; animation: pop 0.3s 2.2s forwards; }
+    .ach4 { opacity:0; animation: pop 0.3s 2.4s forwards; }
+    .ach5 { opacity:0; animation: pop 0.3s 2.6s forwards; }
+    .ach6 { opacity:0; animation: pop 0.3s 2.8s forwards; }
+    @keyframes pop { to { opacity:1; } }
+
+    /* scanline */
+    .scan { fill: url(#scanpat); opacity: 0.04; }
+  </style>
+
+  <pattern id="scanpat" width="1" height="3" patternUnits="userSpaceOnUse">
+    <rect width="1" height="1" fill="#fff"/>
+  </pattern>
+  <pattern id="gridpat" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0 L0 0 0 40" fill="none" stroke="#0ea5e9" stroke-width="0.3" opacity="0.15"/>
+  </pattern>
+</defs>
+
+<!-- BG -->
+<rect width="860" height="480" class="bg"/>
+<rect width="860" height="480" fill="url(#gridpat)"/>
+<rect width="860" height="480" class="scan"/>
+
+<!-- outer border -->
+<rect x="8" y="8" width="844" height="464" rx="6" fill="none" stroke="#0ea5e9" stroke-width="1" opacity="0.4" class="fade"/>
+<rect x="12" y="12" width="836" height="456" rx="4" fill="none" stroke="#0ea5e9" stroke-width="0.5" opacity="0.2" class="fade"/>
+
+<!-- corner brackets -->
+<g stroke="#0ea5e9" stroke-width="2" fill="none" class="fade">
+  <path d="M18,30 L18,18 L30,18"/>
+  <path d="M842,30 L842,18 L830,18"/>
+  <path d="M18,450 L18,462 L30,462"/>
+  <path d="M842,450 L842,462 L830,462"/>
+</g>
+<g stroke="#ec4899" stroke-width="1" fill="none" opacity="0.6" class="fade">
+  <path d="M22,34 L22,22 L34,22"/>
+  <path d="M838,34 L838,22 L826,22"/>
+  <path d="M22,446 L22,458 L34,458"/>
+  <path d="M838,446 L838,458 L826,458"/>
+</g>
+
+<!-- top accent bar -->
+<rect x="8" y="8" width="844" height="3" rx="1" fill="url(#accGrad)" class="fade"/>
+<defs>
+  <linearGradient id="accGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%"   stop-color="#0ea5e9"/>
+    <stop offset="50%"  stop-color="#7c3aed"/>
+    <stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+</defs>
+
+<!-- ══ HEADER ══ -->
+<text x="430" y="46" class="title" text-anchor="middle">⚔  CHARACTER PROFILE  ⚔</text>
+<text x="430" y="62" class="subtitle" text-anchor="middle">── DATA ANALYST CLASS · LVL MBA · LPU ──</text>
+<line x1="30" y1="72" x2="830" y2="72" stroke="#0ea5e9" stroke-width="0.8" opacity="0.4"/>
+
+<!-- ══ LEFT PANEL — Identity ══ -->
+<rect x="22" y="82" width="240" height="370" rx="5" class="panel"/>
+
+<text x="142" y="102" class="hdr" text-anchor="middle">[ IDENTITY ]</text>
+
+<!-- avatar placeholder — pixel art style box -->
+<rect x="62" y="112" width="160" height="120" rx="4" fill="#111827" stroke="#0ea5e9" stroke-width="1" opacity="0.8"/>
+<!-- pixel avatar representation -->
+<rect x="110" y="122" width="60" height="60" rx="30" fill="#1e3a5f" stroke="#0ea5e9" stroke-width="1"/>
+<text x="140" y="158" font-family="Courier New" font-size="28" text-anchor="middle" fill="#0ea5e9">🧠</text>
+<rect x="82"  y="182" width="116" height="44" rx="3" fill="#1e293b"/>
+<text x="140" y="198" font-family="Courier New" font-size="9"  text-anchor="middle" fill="#94a3b8">ROLE:</text>
+<text x="140" y="213" font-family="Courier New" font-size="9"  text-anchor="middle" fill="#0ea5e9" font-weight="bold">DATA ANALYST</text>
+<text x="140" y="225" font-family="Courier New" font-size="7"  text-anchor="middle" fill="#64748b">+ DATA SCIENCE INTERN</text>
+
+<line x1="42" y1="242" x2="242" y2="242" stroke="#1e293b" stroke-width="1"/>
+
+<text x="42" y="258" class="lbl">NAME</text>
+<text x="42" y="272" font-family="Courier New" font-size="10" font-weight="bold" fill="#e2e8f0">PRASANTH KUMAR SAHU</text>
+
+<text x="42" y="292" class="lbl">DEGREE</text>
+<text x="42" y="305" font-family="Courier New" font-size="9" fill="#06b6d4">MBA — FINANCE &amp; IT</text>
+<text x="42" y="317" font-family="Courier New" font-size="9" fill="#64748b">LOVELY PROFESSIONAL UNIV.</text>
+
+<text x="42" y="336" class="lbl">STATUS</text>
+<rect x="42" y="342" width="200" height="18" rx="3" fill="#052e16"/>
+<circle cx="54" cy="351" r="4" class="dot1"/>
+<text x="64" y="355" font-family="Courier New" font-size="9" fill="#10b981" font-weight="bold">OPEN TO FULL-TIME ROLES</text>
+
+<text x="42" y="378" class="lbl">ACTIVE QUESTS</text>
+<rect x="42" y="384" width="200" height="16" rx="2" fill="#0d2137"/>
+<circle cx="52" cy="392" r="3" class="dot1"/>
+<text x="60" y="396" font-family="Courier New" font-size="8" fill="#e2e8f0">Labmentix · Data Analyst</text>
+<rect x="42" y="404" width="200" height="16" rx="2" fill="#0d2137"/>
+<circle cx="52" cy="412" r="3" class="dot2"/>
+<text x="60" y="416" font-family="Courier New" font-size="8" fill="#e2e8f0">Codec Tech · Data Science</text>
+
+<text x="42" y="440" class="mottoT">"I don't just read data —</text>
+<text x="42" y="454" class="mottoT"> I make it drive decisions."</text>
+
+<!-- ══ MIDDLE PANEL — Stats ══ -->
+<rect x="274" y="82" width="306" height="370" rx="5" class="panel"/>
+<text x="427" y="102" class="hdr" text-anchor="middle">[ SKILL STATS ]</text>
+
+<!-- stat bars -->
+<text x="290" y="125" class="lbl">PYTHON</text>
+<text x="548" y="125" font-family="Courier New" font-size="9" fill="#3b82f6" text-anchor="end">88</text>
+<rect x="290" y="130" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="130" width="186" height="10" rx="3" class="bar-py"/>
+
+<text x="290" y="158" class="lbl">POWER BI / DAX</text>
+<text x="548" y="158" font-family="Courier New" font-size="9" fill="#f59e0b" text-anchor="end">90</text>
+<rect x="290" y="163" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="163" width="198" height="10" rx="3" class="bar-pbi"/>
+
+<text x="290" y="191" class="lbl">SQL / MySQL</text>
+<text x="548" y="191" font-family="Courier New" font-size="9" fill="#10b981" text-anchor="end">85</text>
+<rect x="290" y="196" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="196" width="175" height="10" rx="3" class="bar-sql"/>
+
+<text x="290" y="224" class="lbl">MACHINE LEARNING</text>
+<text x="548" y="224" font-family="Courier New" font-size="9" fill="#8b5cf6" text-anchor="end">78</text>
+<rect x="290" y="229" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="229" width="162" height="10" rx="3" class="bar-ml"/>
+
+<text x="290" y="257" class="lbl">EDA / STATISTICS</text>
+<text x="548" y="257" font-family="Courier New" font-size="9" fill="#ec4899" text-anchor="end">90</text>
+<rect x="290" y="262" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="262" width="198" height="10" rx="3" class="bar-eda"/>
+
+<text x="290" y="290" class="lbl">KAFKA / MLOPS</text>
+<text x="548" y="290" font-family="Courier New" font-size="9" fill="#06b6d4" text-anchor="end">68</text>
+<rect x="290" y="295" width="250" height="10" rx="3" fill="#1e293b"/>
+<rect x="290" y="295" width="140" height="10" rx="3" class="bar-k"/>
+
+<line x1="290" y1="318" x2="562" y2="318" stroke="#1e293b" stroke-width="1"/>
+<text x="427" y="334" class="hdr" text-anchor="middle">[ SPECIAL ABILITIES ]</text>
+
+<text x="290" y="353" class="grn">▸ SHAP XAI EXPLAINABILITY</text>
+<text x="290" y="370" class="cyn">▸ REAL-TIME KAFKA STREAMING</text>
+<text x="290" y="387" class="pnk">▸ PRODUCTION MLOPS PIPELINE</text>
+<text x="290" y="404" class="yel">▸ C-LEVEL BI STORYTELLING</text>
+<text x="290" y="421" class="grn">▸ FASTAPI + DOCKER DEPLOY</text>
+<text x="290" y="438" class="cyn">▸ FRAUD DETECTION &lt;250MS</text>
+
+<text x="290" y="460" font-family="Courier New" font-size="8" fill="#334155">CORE STACK: Python · SQL · Power BI · Tableau · Scikit-learn · Excel</text>
+
+<!-- ══ RIGHT PANEL — Achievements ══ -->
+<rect x="592" y="82" width="248" height="370" rx="5" class="panel2"/>
+<text x="716" y="102" class="hdr" text-anchor="middle" fill="#7c3aed">[ ACHIEVEMENTS ]</text>
+
+<!-- achievement tiles -->
+<g class="ach1">
+  <rect x="608" y="112" width="216" height="44" rx="4" fill="#1a0a2e" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="624" y="129" font-family="Courier New" font-size="18">🏆</text>
+  <text x="652" y="127" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">FRAUD BUSTER</text>
+  <text x="652" y="140" font-family="Courier New" font-size="8" fill="#64748b">ROC-AUC: 0.8983 · 590K txns</text>
+  <text x="652" y="151" font-family="Courier New" font-size="8" fill="#10b981">&lt;250ms · PRODUCTION LIVE</text>
+</g>
+
+<g class="ach2">
+  <rect x="608" y="162" width="216" height="44" rx="4" fill="#1a1000" stroke="#f59e0b" stroke-width="0.8"/>
+  <text x="624" y="179" font-family="Courier New" font-size="18">🎓</text>
+  <text x="652" y="177" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">KNOWLEDGE HOARDER</text>
+  <text x="652" y="190" font-family="Courier New" font-size="8" fill="#64748b">21 VERIFIED CERTIFICATES</text>
+  <text x="652" y="201" font-family="Courier New" font-size="8" fill="#f59e0b">80+ HOURS · 5 DOMAINS</text>
+</g>
+
+<g class="ach3">
+  <rect x="608" y="212" width="216" height="44" rx="4" fill="#001a0e" stroke="#10b981" stroke-width="0.8"/>
+  <text x="624" y="229" font-family="Courier New" font-size="18">⚡</text>
+  <text x="652" y="227" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">DUAL WIELDER</text>
+  <text x="652" y="240" font-family="Courier New" font-size="8" fill="#64748b">2 INTERNSHIPS · SAME TIME</text>
+  <text x="652" y="251" font-family="Courier New" font-size="8" fill="#10b981">LABMENTIX + CODEC TECH</text>
+</g>
+
+<g class="ach4">
+  <rect x="608" y="262" width="216" height="44" rx="4" fill="#0d0a1a" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="624" y="279" font-family="Courier New" font-size="18">🚀</text>
+  <text x="652" y="277" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">SHIP IT FAST</text>
+  <text x="652" y="290" font-family="Courier New" font-size="8" fill="#64748b">8 PROJECTS DEPLOYED</text>
+  <text x="652" y="301" font-family="Courier New" font-size="8" fill="#8b5cf6">REACT · FASTAPI · VERCEL</text>
+</g>
+
+<g class="ach5">
+  <rect x="608" y="312" width="216" height="44" rx="4" fill="#1a0010" stroke="#ec4899" stroke-width="0.8"/>
+  <text x="624" y="329" font-family="Courier New" font-size="18">📊</text>
+  <text x="652" y="327" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">DATA WHISPERER</text>
+  <text x="652" y="340" font-family="Courier New" font-size="8" fill="#64748b">590,000+ RECORDS ANALYZED</text>
+  <text x="652" y="351" font-family="Courier New" font-size="8" fill="#ec4899">TOURISM · FINANCE · FRAUD</text>
+</g>
+
+<g class="ach6">
+  <rect x="608" y="362" width="216" height="44" rx="4" fill="#001a1a" stroke="#06b6d4" stroke-width="0.8"/>
+  <text x="624" y="379" font-family="Courier New" font-size="18">🌐</text>
+  <text x="652" y="377" font-family="Courier New" font-size="9" font-weight="bold" fill="#e2e8f0">FULL STACK ANALYST</text>
+  <text x="652" y="390" font-family="Courier New" font-size="8" fill="#64748b">WALMART + AWS SIMS</text>
+  <text x="652" y="401" font-family="Courier New" font-size="8" fill="#06b6d4">FORAGE CERTIFIED</text>
+</g>
+
+<!-- footer bar -->
+<line x1="8" y1="460" x2="852" y2="460" stroke="#0ea5e9" stroke-width="0.5" opacity="0.3"/>
+<text x="30"  y="474" font-family="Courier New" font-size="8" fill="#334155">© PrasanthKumarS777 · 2026</text>
+<text x="430" y="474" font-family="Courier New" font-size="8" fill="#0ea5e9" text-anchor="middle">
+  <tspan class="cur">█</tspan>
+  <tspan> READY TO LEVEL UP YOUR DATA STACK </tspan>
+  <tspan class="cur">█</tspan>
+</text>
+<text x="830" y="474" font-family="Courier New" font-size="8" fill="#334155" text-anchor="end">MBA · LPU</text>
+
+</svg>
