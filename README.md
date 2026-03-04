@@ -6,7 +6,7 @@
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&width=900&lines=📥+RAW+DATA+INGESTED+—+590%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
+[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&width=900&lines=📥+RAW+DATA+INGESTED+—+8Million+%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
 
 <br/>
 
