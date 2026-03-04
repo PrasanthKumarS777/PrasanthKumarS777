@@ -28,9 +28,9 @@
 
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
-![8 Projects](https://img.shields.io/badge/🚀_Projects-8_Built-ec4899?style=flat-square&labelColor=0d1117)
+![10 Projects](https://img.shields.io/badge/🚀_Projects-8_Built-ec4899?style=flat-square&labelColor=0d1117)
 ![2 Internships](https://img.shields.io/badge/🏢_Internships-2_Active-10b981?style=flat-square&labelColor=0d1117)
-![590k Records](https://img.shields.io/badge/📊_Records_Analyzed-590K%2B-f59e0b?style=flat-square&labelColor=0d1117)
+![8M+ Records](https://img.shields.io/badge/📊_Records_Analyzed-590K%2B-f59e0b?style=flat-square&labelColor=0d1117)
 ![ROC-AUC](https://img.shields.io/badge/🎯_Best_ROC--AUC-0.8983-0ea5e9?style=flat-square&labelColor=0d1117)
 
 <br/>
@@ -44,10 +44,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
@@ -67,7 +64,7 @@
 
 <br/>
 
-<!-- DATA SCIENCE PIPELINE GIF — already in your repo -->
+<!-- DATA SCIENCE PIPELINE GIF — already in the repo -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/data-story.gif" alt="Live Data Science Pipeline" width="100%"/>
 </div>
@@ -328,7 +325,7 @@
 
 <br/>
 
-[![View All 8 Projects](https://img.shields.io/badge/📂_EXPLORE_ALL_8_PROJECTS_→-Fraud_·_ML_·_BI_·_Web_·_NLP-f59e0b?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories&sort=stars)
+[![View All 8 Projects](https://img.shields.io/badge/📂_EXPLORE_ALL_10_PROJECTS_→-Fraud_·_ML_·_BI_·_Web_·_NLP-f59e0b?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories&sort=stars)
 
 </div>
 
@@ -412,7 +409,7 @@
 
 <div align="center">
 
-### Actively seeking **Data Analyst · BI Analyst · Junior Data Scientist** roles 🎯
+### Actively seeking **Data Analyst  · Junior Data Scientist** roles 🎯
 
 *Bring your messiest dataset. I'll find the story in it.*
 
