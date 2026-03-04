@@ -28,9 +28,9 @@
 
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
-![10 Projects](https://img.shields.io/badge/🚀_Projects-8_Built-ec4899?style=flat-square&labelColor=0d1117)
+![10 Projects](https://img.shields.io/badge/🚀_Projects-10_Built-ec4899?style=flat-square&labelColor=0d1117)
 ![2 Internships](https://img.shields.io/badge/🏢_Internships-2_Active-10b981?style=flat-square&labelColor=0d1117)
-![8M+ Records](https://img.shields.io/badge/📊_Records_Analyzed-590K%2B-f59e0b?style=flat-square&labelColor=0d1117)
+![8M+ Records](https://img.shields.io/badge/📊_Records_Analyzed-8M+%2B-f59e0b?style=flat-square&labelColor=0d1117)
 ![ROC-AUC](https://img.shields.io/badge/🎯_Best_ROC--AUC-0.8983-0ea5e9?style=flat-square&labelColor=0d1117)
 
 <br/>
@@ -100,7 +100,7 @@
 ### 🏢 Labmentix
 **`Data Analyst Intern`** &nbsp; ![Active](https://img.shields.io/badge/🟢-ACTIVE-22c55e?style=flat-square&labelColor=0d1117)
 
-- 📊 Production Power BI dashboards for C-level stakeholders
+- 📊 Production level Power BI dashboards for C-level stakeholders
 - 🔍 Deep EDA surfacing actionable KPIs
 - ⚙️ Automating reporting pipelines via Python + SQL
 - 📐 DAX measures cutting manual reporting time by **70%+**
