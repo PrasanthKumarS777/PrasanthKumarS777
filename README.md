@@ -28,9 +28,9 @@
 
 ![21 Certs](https://img.shields.io/badge/📜_Certificates-21_Verified-0ea5e9?style=flat-square&labelColor=0d1117)
 ![80 Hours](https://img.shields.io/badge/⏱_Learning-80%2B_Hours-7c3aed?style=flat-square&labelColor=0d1117)
-![10 Projects](https://img.shields.io/badge/🚀_Projects-10_Built-ec4899?style=flat-square&labelColor=0d1117)
+![15 Projects](https://img.shields.io/badge/🚀_Projects-15_Built-ec4899?style=flat-square&labelColor=0d1117)
 ![2 Internships](https://img.shields.io/badge/🏢_Internships-2_Active-10b981?style=flat-square&labelColor=0d1117)
-![8M+ Records](https://img.shields.io/badge/📊_Records_Analyzed-8M+%2B-f59e0b?style=flat-square&labelColor=0d1117)
+![30M+ Records](https://img.shields.io/badge/📊_Records_Analyzed-30M%2B-f59e0b?style=flat-square&labelColor=0d1117)
 ![ROC-AUC](https://img.shields.io/badge/🎯_Best_ROC--AUC-0.8983-0ea5e9?style=flat-square&labelColor=0d1117)
 
 <br/>
