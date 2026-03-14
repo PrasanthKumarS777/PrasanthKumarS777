@@ -388,7 +388,7 @@
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/PrasanthKumarS777/github-readme-activity-graph)
 
 </div>
 
