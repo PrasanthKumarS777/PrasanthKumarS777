@@ -374,17 +374,27 @@
 
 ---
 
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,r,js,html,css,react,nextjs,django,fastapi,flask,docker,kubernetes,aws,azure,linux,git,github,vscode,tensorflow,pytorch,redis,kafka,grafana,prometheus,firebase,vercel,rust,c&perline=15" />
+
+</div>
+
+---
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&cache_seconds=1800" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b" width="680"/>
+<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b&cache_seconds=1800" width="680"/>
 
 <br/>
 
