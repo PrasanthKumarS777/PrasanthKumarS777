@@ -298,25 +298,6 @@
 
 ---
 
-## 🚀 Top Projects
-
-<div align="center">
-
-[![Fraud Detection](https://img.shields.io/badge/🔍_Fraud_Detection_Pipeline-ROC--AUC_0.8983_·_590K%2B_txns_·_%3C250ms-ec4899?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/fraud-detection)
-
-[![Loan Default API](https://img.shields.io/badge/🏦_Loan_Default_Prediction_API-93.2%25_Accuracy_·_SHAP_XAI_·_%3C100ms-0ea5e9?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/loan-default-prediction-xai)
-
-[![Tourism Analytics](https://img.shields.io/badge/🌍_Tourism_Analytics_Platform-R²%3D0.85_·_50K%2B_records_·_100%2B_countries-7c3aed?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/Tourism-Analytics-Platform)
-
-[![Finance Dashboard](https://img.shields.io/badge/💰_Financial_Intelligence_Dashboard-Live_on_Vercel_·_Firebase_·_Recharts-10b981?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/financial-intelligence-dashboard)
-
-<br/>
-
-[![View All 8 Projects](https://img.shields.io/badge/📂_EXPLORE_ALL_10_PROJECTS_→-Fraud_·_ML_·_BI_·_Web_·_NLP-f59e0b?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories&sort=stars)
-
-</div>
-
----
 
 ## 📜 Certifications — 21 Verified · 80+ Hours
 
