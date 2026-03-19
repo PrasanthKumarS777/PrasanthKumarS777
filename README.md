@@ -408,13 +408,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&cache_seconds=1800" height="180"/>
+<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
+<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&cache_seconds=60" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" height="180"/>
+<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=60" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b&cache_seconds=1800" width="680"/>
+<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
+<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b&cache_seconds=60" width="680"/>
 
 <br/>
 
@@ -454,8 +457,5 @@
 [![Signoff](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=EC4899&center=true&vCenter=true&width=780&lines=Thanks+for+visiting+my+profile+👋;Let's+turn+your+data+into+decisions+🚀;print(%22See+you+in+the+data%22)+%23+always)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- FOOTER wave — capsule-render renders 100% on GitHub -->
-
 
 </div>
