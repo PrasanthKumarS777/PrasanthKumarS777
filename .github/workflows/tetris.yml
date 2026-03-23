@@ -8,38 +8,46 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3        # ✅ downgraded from v4 (Node.js 20 warning fix)
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v4    # ✅ downgraded from v5
+        uses: actions/setup-python@v4
         with:
           python-version: "3.11"
 
-      - name: Clone Tetris GIF Maker
-        run: git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git
-
       - name: Install dependencies
+        run: pip install requests Pillow
+
+      - name: Clone Tetris maker
+        run: git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git tetris-maker
+
+      - name: Install Tetris requirements
         run: |
-          cd gh-contributions-tetris-gif-maker
+          cd tetris-maker
           pip install -r requirements.txt
 
       - name: Generate Tetris GIF
         run: |
-          cd gh-contributions-tetris-gif-maker
-          python main.py \
-            -u PrasanthKumarS777 \
-            -y 2026 \
-            -t ${{ secrets.GITHUB_TOKEN }}    # ✅ THIS was missing — API needs auth
-          cp images/github_tetris_2026.gif ../github_tetris.gif  # ✅ fixed filename
+          cd tetris-maker
+          python main.py -u PrasanthKumarS777 -y 2026
+          ls -la images/
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push GIF
+      - name: Copy GIF to root
+        run: cp tetris-maker/images/*.gif ./github_tetris.gif
+
+      - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add github_tetris.gif
-          git commit -m "🎮 Update Tetris contribution GIF" || echo "No changes to commit"
+          git diff --staged --quiet || git commit -m "🎮 Update Tetris GIF"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
