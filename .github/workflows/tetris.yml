@@ -5,7 +5,7 @@ on:
     branches:
       - main          # ✅ triggers INSTANTLY on every commit you push
   schedule:
-    - cron: "0 */6 * * *"   # ✅ backup refresh every 6 hours
+    - cron: "0 */12 * * *"   # ✅ backup refresh every 6 hours
   workflow_dispatch:
 
 jobs:
