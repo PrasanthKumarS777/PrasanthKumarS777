@@ -438,7 +438,7 @@
 <!--  TETRIS CONTRIBUTION GRAPH — auto-generated daily via GitHub Actions      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🎮 Tetris Contributions
+## 🎮 Tetris Contributions ##
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/github_tetris.gif" alt="Tetris Contribution Graph" width="100%"/>
