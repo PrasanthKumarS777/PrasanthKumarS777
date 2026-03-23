@@ -1,8 +1,11 @@
 name: Generate Tetris Contribution GIF
 
 on:
+  push:
+    branches:
+      - main          # ✅ triggers INSTANTLY on every commit you push
   schedule:
-    - cron: "0 */6 * * *"    # ✅ every 6 hours
+    - cron: "0 */6 * * *"   # ✅ backup refresh every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -39,7 +42,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Make GIF loop infinitely   # ✅ NEW STEP
+      - name: Make GIF loop infinitely
         run: |
           python3 - <<'EOF'
           from PIL import Image
@@ -52,9 +55,11 @@ jobs:
           )
           img = Image.open(gif_path)
           frames = []
+          durations = []
           try:
               while True:
                   frames.append(img.copy())
+                  durations.append(img.info.get('duration', 100))
                   img.seek(img.tell() + 1)
           except EOFError:
               pass
@@ -63,10 +68,11 @@ jobs:
               "./github_tetris.gif",
               save_all=True,
               append_images=frames[1:],
-              loop=0,
+              loop=0,           # ✅ 0 = infinite — resets and replays forever
+              duration=durations,
               optimize=False
           )
-          print(f"✅ Saved looping GIF with {len(frames)} frames")
+          print(f"✅ Infinite loop GIF saved — {len(frames)} frames")
           EOF
 
       - name: Commit and push
@@ -74,7 +80,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add github_tetris.gif
-          git diff --staged --quiet || git commit -m "🎮 Update Tetris GIF"
+          git diff --staged --quiet || git commit -m "🎮 Tetris GIF updated with latest contributions"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
