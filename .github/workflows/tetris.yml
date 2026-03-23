@@ -2,7 +2,7 @@ name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"    # ✅ every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -39,8 +39,35 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Copy GIF to root
-        run: cp tetris-maker/images/*.gif ./github_tetris.gif
+      - name: Make GIF loop infinitely   # ✅ NEW STEP
+        run: |
+          python3 - <<'EOF'
+          from PIL import Image
+          import os
+
+          gif_path = next(
+              f"tetris-maker/images/{f}"
+              for f in os.listdir("tetris-maker/images")
+              if f.endswith(".gif")
+          )
+          img = Image.open(gif_path)
+          frames = []
+          try:
+              while True:
+                  frames.append(img.copy())
+                  img.seek(img.tell() + 1)
+          except EOFError:
+              pass
+
+          frames[0].save(
+              "./github_tetris.gif",
+              save_all=True,
+              append_images=frames[1:],
+              loop=0,
+              optimize=False
+          )
+          print(f"✅ Saved looping GIF with {len(frames)} frames")
+          EOF
 
       - name: Commit and push
         run: |
