@@ -408,15 +408,12 @@
 
 <div align="center">
 
-<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
 <img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&cache_seconds=60" height="180"/>
 &nbsp;
-<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=60" height="180"/>
 
 <br/>
 
-<!-- ✅ FIXED: cache_seconds changed from 1800 → 60 for real-time updates -->
 <img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b&cache_seconds=60" width="680"/>
 
 <br/>
@@ -435,6 +432,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  TETRIS CONTRIBUTION GRAPH — auto-generated daily via GitHub Actions      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🎮 Tetris Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/github_tetris.gif" alt="Tetris Contribution Graph" width="100%"/>
+</div>
 
 ---
 
