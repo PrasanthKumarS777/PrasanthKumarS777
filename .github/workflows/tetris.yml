@@ -2,18 +2,18 @@ name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:       # allows manual trigger too
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3        # ✅ downgraded from v4 (Node.js 20 warning fix)
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4    # ✅ downgraded from v5
         with:
           python-version: "3.11"
 
@@ -28,15 +28,18 @@ jobs:
       - name: Generate Tetris GIF
         run: |
           cd gh-contributions-tetris-gif-maker
-          python main.py -u PrasanthKumarS777 -y 2026
-          cp images/github_tetris.gif ../github_tetris.gif
+          python main.py \
+            -u PrasanthKumarS777 \
+            -y 2026 \
+            -t ${{ secrets.GITHUB_TOKEN }}    # ✅ THIS was missing — API needs auth
+          cp images/github_tetris_2026.gif ../github_tetris.gif  # ✅ fixed filename
 
       - name: Commit and push GIF
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add github_tetris.gif
-          git commit -m "🎮 Update Tetris contribution GIF" || echo "No changes"
+          git commit -m "🎮 Update Tetris contribution GIF" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
