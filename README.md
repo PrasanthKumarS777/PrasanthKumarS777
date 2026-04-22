@@ -6,7 +6,9 @@
 <!--  LIVE DATA SCIENCE PIPELINE CONSOLE                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&width=900&lines=📥+RAW+DATA+INGESTED+—+8Million+%2C000%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
+<!-- FIX: "8Million %2C000%2B" was rendering as "8Million ,000+" which is garbled -->
+<!-- %2C is a URL-encoded comma — fixed to "8M%2B" so it renders cleanly as "8M+" -->
+[![Pipeline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=400&color=0EA5E9&center=true&vCenter=true&width=900&lines=📥+RAW+DATA+INGESTED+—+8M%2B+records+loaded;🔍+RUNNING+EDA+...+outliers+detected+%7C+nulls+imputed;⚙️+FEATURE+ENGINEERING+...+434+features+processed;🧠+MODEL+TRAINING+...+XGBClassifier.fit()+✅;📊+EVALUATING+...+ROC-AUC%3A+0.8983+%7C+Precision%3A+0.84;🚀+DEPLOYING+TO+FASTAPI+...+endpoint+live+on+:8000;📡+KAFKA+STREAM+ACTIVE+...+transactions%2Fsec+%3E+1000;✅+FRAUD+DETECTED+IN+%3C250ms+%7C+PIPELINE+COMPLETE+🎯)](https://git.io/typing-svg)
 
 <br/>
 
@@ -408,17 +410,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899&cache_seconds=60" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrasanthKumarS777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=7c3aed&text_color=c9d1d9&ring_color=ec4899" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=60" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasanthKumarS777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b&cache_seconds=60" width="680"/>
+<img src="https://streak-stats.demolab.com?user=PrasanthKumarS777&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=7c3aed&fire=ec4899&currStreakLabel=0ea5e9&sideLabels=7c3aed&dates=64748b" width="680"/>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/PrasanthKumarS777/github-readme-activity-graph)
+<!-- FIX: replaced deprecated github-readme-activity-graph.vercel.app URL -->
+<!-- The old repo (Ashutosh00710) is archived; using the current active deployment URL -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrasanthKumarS777&bg_color=0d1117&color=0ea5e9&line=7c3aed&point=ec4899&area=true&area_color=0ea5e9&hide_border=true)](https://github.com/PrasanthKumarS777)
 
 </div>
 
@@ -428,20 +432,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/output/github-contribution-grid-snake-matrix.gif" width="100%"/>
-</div>
-
-
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--  TETRIS CONTRIBUTION GRAPH — auto-generated daily via GitHub Actions      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎮 Tetris Contributions 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/github_tetris.gif" alt="Tetris Contribution Graph" width="100%"/>
 </div>
 
 ---
