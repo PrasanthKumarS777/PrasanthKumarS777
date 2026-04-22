@@ -52,19 +52,17 @@
 </div>
 
 ---
-
-## 🧬 Who I Am
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- RPG CHARACTER STATS — upload rpg-whoiam.svg to your repo root             -->
-<!-- Animated skill bars, achievement badges, status dots — full RPG style     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🌌 GitHub Galaxy — Live
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/rpg-whoiam.svg" alt="Who I Am — RPG Character Stats" width="100%"/>
+
+> 🪐 Every planet is a real repo &nbsp;·&nbsp; ✦ Every particle is a real commit &nbsp;·&nbsp; Hover to explore
+
+[![Galaxy](https://img.shields.io/badge/🌌_Open_Interactive_Galaxy-0d1117?style=for-the-badge&logoColor=white)](https://PrasanthKumarS777.github.io/github-galaxy)
+
 </div>
 
-<br/>
+---
 
 <!-- DATA SCIENCE PIPELINE GIF — already in the repo -->
 <div align="center">
