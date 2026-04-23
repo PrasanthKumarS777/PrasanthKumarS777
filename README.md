@@ -52,13 +52,13 @@
 </div>
 
 ---
-## 🌌 GitHub Galaxy — Live
+## 🏙️ My GitHub City — Live
 
 <div align="center">
 
-> 🪐 Every planet is a real repo &nbsp;·&nbsp; ✦ Every particle is a real commit &nbsp;·&nbsp; Hover to explore
+> Every building is a real repo · height = code size · lights = activity · train = your last commit
 
-[![Galaxy](https://img.shields.io/badge/🌌_Open_Interactive_Galaxy-0d1117?style=for-the-badge&logoColor=white)](https://PrasanthKumarS777.github.io/github-galaxy)
+[![Visit City](https://img.shields.io/badge/🏙️_Open_My_GitHub_City-0d1117?style=for-the-badge)](https://PrasanthKumarS777.github.io/github-city)
 
 </div>
 
