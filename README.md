@@ -20,7 +20,7 @@
 <!--  STATUS + CONTACT BADGES                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![Status](https://img.shields.io/badge/🟢_Status-Open_to_Full_Time_Roles-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/prasanthsahu7)
+[![Status](https://img.shields.io/badge/🟢_Status-777-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/prasanthsahu7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanth_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
 [![Gmail](https://img.shields.io/badge/Email-prasanthkumarsahu7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanthkumarsahu7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PrasanthKumarS777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777)
