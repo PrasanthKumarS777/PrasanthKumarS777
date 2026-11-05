@@ -21,7 +21,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 [![Status](https://img.shields.io/badge/🟢_Status-777-22c55e?style=for-the-badge&labelColor=0d1117)](https://linkedin.com/in/prasanthsahu7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanth_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
 [![Gmail](https://img.shields.io/badge/Email-prasanthkumarsahu7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanthkumarsahu7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PrasanthKumarS777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777)
 [![Profile Views](https://komarev.com/ghpvc/?username=PrasanthKumarS777&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)](https://github.com/PrasanthKumarS777)
@@ -97,8 +96,8 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🏢 Labmentix
-**`Data Analyst Intern`** &nbsp; ![Active](https://img.shields.io/badge/🟢-ACTIVE-22c55e?style=flat-square&labelColor=0d1117)
+### 🏢 DXC Technology
+**`Analyst III Infrastructure Services`** &nbsp; ![Active](https://img.shields.io/badge/🟢-ACTIVE-22c55e?style=flat-square&labelColor=0d1117)
 
 - 📊 Production level Power BI dashboards for C-level stakeholders
 - 🔍 Deep EDA surfacing actionable KPIs
@@ -381,7 +380,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanthsahu7)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasanthkumarsahu7@gmail.com)
 [![Projects](https://img.shields.io/badge/See_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrasanthKumarS777?tab=repositories)
 
