@@ -46,10 +46,10 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 
 📅 **May 19, 2026 – Present**
 
-- ☁️ Supporting Microsoft 365 applications and Azure cloud-related queries
-- 🎫 Handling tickets and requests in ServiceNow
-- 🌐 Troubleshooting networking issues and Active Directory requests
-- 🧾 Resolving SAP queries
+☁️ Supporting Microsoft 365 applications and Azure cloud-related queries<br/>
+🎫 Handling tickets and requests in ServiceNow<br/>
+🌐 Troubleshooting networking issues and Active Directory requests<br/>
+🧾 Resolving SAP queries
 
 </td>
 </tr>
@@ -64,9 +64,11 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 
 📅 **Jan 15, 2026 – May 15, 2026** (4 months)
 
-- 🧹 Data collection, cleaning and exploratory data analysis
-- 📐 Statistical analysis and feature engineering
-- 🤖 Built predictive models using machine learning algorithms
+🧹 Data collection, cleaning and exploratory data analysis<br/>
+📐 Statistical analysis and feature engineering<br/>
+🤖 Built predictive models using machine learning algorithms
+
+<br/>
 
 [![View Documents](https://img.shields.io/badge/📎_View_Internship_Documents-0ea5e9?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/PrasanthKumarS777/tree/main/documents)
 
@@ -83,11 +85,11 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/AD-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" width="80" height="35"/>
+      <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/azure-icons/Azure-Active-Directory.svg" alt="Active Directory" width="48" height="48"/>
       <br>Active Directory
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/NOW-62D84E?style=for-the-badge&logoColor=white" alt="ServiceNow" width="80" height="35"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/5706784bde4a0a45d60fd722415c90ec4262c9b0/icons/servicenow/servicenow-original.svg" alt="ServiceNow" width="48" height="48"/>
       <br>ServiceNow
     </td>
     <td align="center" width="96">
@@ -177,10 +179,6 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
       <br>VSCode
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-      <br>Vercel
     </td>
   </tr>
 </table>
