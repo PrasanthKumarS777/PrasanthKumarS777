@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-I'm an **Analyst III in Infrastructure Services at DXC Technology**, working across Microsoft 365, ServiceNow, Azure, networking, Active Directory and SAP. I'm also pursuing an **MBA in Finance & IT at LPU**, and I completed a 4-month **Data Science with AI internship** at Labmentix earlier this year. The offer letter, certificate, experience letter and recommendation letter for it are all available to verify below.
+I'm an **Analyst III in Infrastructure Services at DXC Technology**, working across Microsoft 365, ServiceNow, Azure, networking, Active Directory and SAP. I've completed my **MBA in Finance & IT at LPU** and a 4-month **Data Science with AI internship** at Labmentix, and I'm currently preparing for the Microsoft **AZ-900** and **AZ-104** Azure certifications.
 
 ---
 
@@ -27,10 +27,10 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 | | |
 |---|---|
 | 🏢 **Current Role** | Analyst III – Infrastructure Services @ **DXC Technology** (May 2026 – Present) |
-| 🧰 **Focus Areas** | Microsoft 365 · ServiceNow · Azure · Networking · Active Directory · SAP |
 | 🏅 **Previous Experience** | Data Science with AI Intern @ **Labmentix Pvt. Ltd.** (Jan 2026 – May 2026) ✅ Completed |
-| 🎓 **Education** | MBA – Finance & IT · LPU |
-| 📎 **Verification** | Offer letter · Internship certificate · Experience letter · Letter of recommendation → [jump to documents](#-verified-documents) |
+| 🎓 **Education** | MBA – Finance & IT · LPU ✅ Completed |
+| 📜 **Certifications** | Microsoft AZ-900 & AZ-104 · 🟡 In Progress |
+| 📎 **Documents** | [View internship documents](https://github.com/PrasanthKumarS777/PrasanthKumarS777/tree/main/documents) |
 | 📬 **Contact** | [prasanthkumarsahu7@gmail.com](mailto:prasanthkumarsahu7@gmail.com) · [LinkedIn](https://linkedin.com/in/prasanthsahu7) |
 
 ---
@@ -46,19 +46,10 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 
 📅 **May 19, 2026 – Present**
 
-- ☁️ Supporting queries and issues related to **Microsoft 365** applications
-- 🎫 Working on tickets and requests in **ServiceNow**
-- 🌩️ Handling **Azure** cloud-related tasks and queries
-- 🌐 Troubleshooting **networking** issues
-- 🔐 Handling **Active Directory** related requests
-- 🧾 Resolving **SAP** queries
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat-square)
-![Active Directory](https://img.shields.io/badge/Active_Directory-00A4EF?style=flat-square)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+- ☁️ Supporting Microsoft 365 applications and Azure cloud-related queries
+- 🎫 Handling tickets and requests in ServiceNow
+- 🌐 Troubleshooting networking issues and Active Directory requests
+- 🧾 Resolving SAP queries
 
 </td>
 </tr>
@@ -71,82 +62,17 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 ### 🧪 Labmentix Pvt. Ltd.
 **`Data Science with AI Intern`** &nbsp; ![Completed](https://img.shields.io/badge/✅-COMPLETED-0ea5e9?style=flat-square&labelColor=0d1117)
 
-📅 **Jan 15, 2026 – May 15, 2026** (4 months) · 📍 Bengaluru, Karnataka
+📅 **Jan 15, 2026 – May 15, 2026** (4 months)
 
 - 🧹 Data collection, cleaning and exploratory data analysis
 - 📐 Statistical analysis and feature engineering
-- 🤖 Built predictive models using basic machine learning algorithms
-- 🏆 Employer feedback highlights strong analytical ability, problem-solving skills and a professional, disciplined approach
-- 📝 Letter of Recommendation issued by the Founder & CEO
+- 🤖 Built predictive models using machine learning algorithms
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+[![View Documents](https://img.shields.io/badge/📎_View_Internship_Documents-0ea5e9?style=for-the-badge&labelColor=0d1117)](https://github.com/PrasanthKumarS777/PrasanthKumarS777/tree/main/documents)
 
 </td>
 </tr>
 </table>
-
-### 📎 Verified Documents
-
-> Every document below is issued by **Labmentix Pvt. Ltd.** (Bengaluru, Karnataka 560029 · [www.labmentix.in](https://www.labmentix.in)) and signed by **Swaraj Phatangade, Founder & CEO**.
-
-<div align="center">
-
-`📨 Offer · 02 Jan 2026` → `🚀 Joined · 15 Jan 2026` → `🏁 Completed · 15 May 2026` → `🎓 Certificate · 16 May 2026` → `📄 Experience + LOR · 19 May 2026` → `🏢 Joined DXC · 19 May 2026`
-
-</div>
-
-<br/>
-
-| Document | Issued | What it confirms | View |
-|---|---|---|---|
-| 📨 **Offer Letter** | 02 Jan 2026 | Offer for the *Data Science with AI Intern* position, joining date 15-Jan-2026 | [📄 Open PDF](https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Offer_Letter.pdf) |
-| 🎓 **Internship Certificate** | 16 May 2026 | 4-month internship as *Data Science with AI Intern* · Issue No. `39585942708` · includes a QR code | [📄 Open PDF](https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Internship_Certificate.pdf) |
-| 📄 **Experience Letter** | 19 May 2026 | Internship period 15-Jan-2026 to 15-May-2026, with the work performed and employer feedback | [📄 Open PDF](https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Experience_Letter.pdf) |
-| ⭐ **Letter of Recommendation** | 19 May 2026 | Recommendation from the Founder & CEO | [📄 Open PDF](https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Letter_of_Recommendation.pdf) |
-
-<details>
-<summary><b>🖼️ Preview the documents (click to expand)</b></summary>
-<br/>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>📨 Offer Letter</b><br/>
-      <a href="https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Offer_Letter.pdf">
-        <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/documents/previews/offer-letter.png" alt="Offer Letter preview" width="360"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>🎓 Internship Certificate</b><br/>
-      <a href="https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Internship_Certificate.pdf">
-        <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/documents/previews/internship-certificate.png" alt="Internship Certificate preview" width="360"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>📄 Experience Letter</b><br/>
-      <a href="https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Experience_Letter.pdf">
-        <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/documents/previews/experience-letter.png" alt="Experience Letter preview" width="360"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <b>⭐ Letter of Recommendation</b><br/>
-      <a href="https://github.com/PrasanthKumarS777/PrasanthKumarS777/blob/main/documents/Letter_of_Recommendation.pdf">
-        <img src="https://raw.githubusercontent.com/PrasanthKumarS777/PrasanthKumarS777/main/documents/previews/letter-of-recommendation.png" alt="Letter of Recommendation preview" width="360"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<sub>Click any preview to open the full PDF.</sub>
-
-</details>
 
 ---
 
@@ -154,23 +80,141 @@ I'm an **Analyst III in Infrastructure Services at DXC Technology**, working acr
 
 <div align="center">
 
-**☁️ Cloud & Infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,grafana,prometheus&theme=dark" alt="Cloud and infrastructure"/>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/AD-0078D4?style=for-the-badge&logoColor=white" alt="Active Directory" width="80" height="35"/>
+      <br>Active Directory
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/NOW-62D84E?style=for-the-badge&logoColor=white" alt="ServiceNow" width="80" height="35"/>
+      <br>ServiceNow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure"/>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana"/>
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus"/>
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65"/>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/>
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode"/>
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+      <br>Vercel
+    </td>
+  </tr>
+</table>
 
-**⌨️ Languages**<br/>
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,rust&theme=dark" alt="Languages"/>
+</div>
 
-**🌐 Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,fastapi,tailwind&theme=dark" alt="Web and backend"/>
+---
 
-**🗄️ Databases & Streaming**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,kafka,firebase&theme=dark" alt="Databases and streaming"/>
+## 📜 Certifications
 
-**🤖 AI / ML**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="AI and ML"/>
+<div align="center">
 
-**🛠️ Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Tools"/>
+*Currently preparing for Microsoft Azure certification exams*
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="360">
+      <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+      <br/><br/>
+      <b>Microsoft Azure Fundamentals</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🟡-IN_PROGRESS-f59e0b?style=flat-square&labelColor=0d1117" alt="In Progress"/>
+    </td>
+    <td align="center" width="360">
+      <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104"/>
+      <br/><br/>
+      <b>Microsoft Azure Administrator</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🟡-IN_PROGRESS-f59e0b?style=flat-square&labelColor=0d1117" alt="In Progress"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
